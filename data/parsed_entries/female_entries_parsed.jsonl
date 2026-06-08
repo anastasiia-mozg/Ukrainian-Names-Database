@@ -1,0 +1,409 @@
+{"entry_id": 0, "name": "АВГУСТА", "official_vars": null, "base_name": "АВГУСТ", "unofficial_vars": "ГУСТА, ГУСТЯ, ГУСТУСЯ, ГУСЯ; АГУСЯ"}
+{"entry_id": 1, "name": "АВРЕЛІЯ", "etymology": "латинське", "etymology_comment": "римське родове ім'я Aurelius; від aureolus — золотий", "unofficial_vars": "АВРЕЛЯ, АВРЕЛЬКА, АВРЕЛЬЦЯ; ЕЛЯ"}
+{"entry_id": 2, "name": "АВРОРА", "etymology": "латинське", "etymology_comment": "aurora — зоря, світанок; в античній міфології Аврора — богиня ранкової зорі, світанку"}
+{"entry_id": 3, "name": "АГАПІЯ", "official_vars": null, "base_name": "АГАПІЙ", "unofficial_vars": "ГАПА, ГАПОНЬКА"}
+{"entry_id": 4, "name": "АГАТА", "etymology": "грецьке", "etymology_comment": "agathē — добра", "unofficial_vars": "АГАТОНЬКА, АГАТОЧКА, АГА"}
+{"entry_id": 5, "name": "АГАФІЯ", "official_vars": "ГАФІЯ", "etymology": "грецьке", "etymology_comment": "agathē — добра", "unofficial_vars": "ГАФА, ГАФІЙКА, ГАФІЄНКА, ГАФІЄЧКА, ГАПА, ГАПОНЬКА, ГАПОЧКА, ГАПУЛЯ, ГАПУНЯ, ГАПУСЯ, ГАПКА, ГАСЯ, ГАША, ГАШУНЯ, ГАШКА"}
+{"entry_id": 7, "name": "АГНЕСА", "etymology": "грецьке", "etymology_comment": "agnē — чиста, непорочна; за іншим тлумаченням — латинське; agnus — ягня", "unofficial_vars": "АГНА, АГА, АСЯ; НЕСЯ"}
+{"entry_id": 8, "name": "АГНІЯ", "etymology": "грецьке", "etymology_comment": "agnē — чиста, непорочна; за іншим тлумаченням — латинське; agnus — ягня", "unofficial_vars": "АГНА, АГА"}
+{"entry_id": 9, "name": "АГРИПИНА", "official_vars": "ГОРПИНА", "etymology": "латинське", "etymology_comment": "римське родове ім’я Agrippa. За легендою, основоположник цього роду народився вперед ногами, звідси і дістав своє ім’я (грецьке agrēud — схоплювати і pous — нога)", "unofficial_vars": "ГОРПИНКА, ГОРПИНОНЬКА, ГОРПИНОЧКА, ГРУНЯ, ГРУША"}
+{"entry_id": 10, "name": "АДА", "etymology": "давньоєврейське", "etymology_comment": "ім'я ‘Ада’ — прикраса; від ‘ада’ — наряджати; прикрашатися", "unofficial_vars": "АДОНЬКА, АДОЧКА, АДУСЯ, АДЯ"}
+{"entry_id": 11, "name": "АДЕЛАЇДА", "etymology": "запозичене", "etymology_comment": "французьке Adélaïde; від німецьке Adelheentry_id; давньоверхньонімецьке adal — шляхетний, благородний і давньоверхньонімецьке heit — порода, рід", "unofficial_vars": "АДЕЛЯ, АДЕЛЬ, АДА, АДЯ; ДЕЛЯ; ІДА"}
+{"entry_id": 12, "name": "АДЕЛІНА", "etymology": "запозичене", "etymology_comment": "німецьке Adeline; давньоверхньонімецьке adal — шляхетний, благородний", "unofficial_vars": "АДЕЛЯ, АДЕЛЬ, АДА; ДЕЛЯ; ЛІНА"}
+{"entry_id": 13, "name": "АДРІАНА", "official_vars": null, "base_name": "АДРІАН", "unofficial_vars": "АДРІАНКА, АДРІАНОНЬКА, АДРІАНОЧКА, АДА, АДЯ"}
+{"entry_id": 14, "name": "АЕЛІТА", "etymology": "нове", "etymology_comment": "від грецьке aer (родовий відмінок aeros) — повітря і lithos — камінь; утворене О. М. Толстим в однойменному романі", "unofficial_vars": "ЕЛА, ЕЛЯ; АЛЯ"}
+{"entry_id": 15, "name": "АЗА", "etymology": "давньоєврейське", "etymology_comment": "можливо, від ‘az (жіночий рід, жіноче (ім'я) ‘azza) — сильний, міцний. Поширенню імені в Україні сприяла польське’єса М. Старицького “Циганка Аза”", "unofficial_vars": "АЗОНЬКА, АЗОЧКА"}
+{"entry_id": 16, "name": "АЗАЛІЯ", "etymology": "грецьке", "etymology_comment": "azalea — азалія — назва декоративної рослини родини вересових, по-грецьки — суха. Назва зумовлена тим, що азалія любить сухий ґрунт", "unofficial_vars": "АЗА"}
+{"entry_id": 18, "name": "АКСЕНІЯ", "official_vars": null, "equivalent_name": "ОКСАНА"}
+{"entry_id": 19, "name": "АЛЕВТИНА", "etymology": "грецьке", "etymology_comment": "можливо, від aleno — відбиваю", "unofficial_vars": "АЛА, АЛЯ; ТІНА, ТІНОНЬКА, ТІНОЧКА, ТІНКА"}
+{"entry_id": 20, "name": "АЛІНА", "etymology": "запозичене", "etymology_comment": "німецьке Alina, Aline; можливо, виникло через скорочення імен Ангеліна, Аделіна", "unofficial_vars": "АЛІНКА, АЛІНОНЬКА, АЛІНОЧКА, АЛА, АЛЯ; ЛІНА"}
+{"entry_id": 21, "name": "АЛІСА", "etymology": "запозичене", "etymology_comment": "французьке Alice; можливо, від. грецьке alètheia — істина; можливо, скорочений варіант імені КАЛІСТА", "unofficial_vars": "АЛІСОНЬКА, АЛІСОЧКА, АЛІСКА, АЛА, АЛЯ"}
+{"entry_id": 22, "name": "АЛЛА", "etymology": "грецьке", "etymology_comment": "можливо, від allé (чоловічий рід, чоловіче ім'я allos) — інша, друга, наступна; в російське могло виникнути від прикметник “альй”", "unofficial_vars": "АЛЛОНЬКА, АЛЛОЧКА, АЛЛУСЯ, АЛА, АЛЯ"}
+{"entry_id": 23, "name": "АЛЬБЕРТИНА", "official_vars": null, "base_name": "АЛЬБЕРТ", "unofficial_vars": "АЛЬБЕРТИНОНЬКА, АЛЬБЕРТИНОЧКА, АЛЬБЕРТИНКА, АЛЯ; ТІНА"}
+{"entry_id": 24, "name": "АЛЬБІНА", "official_vars": null, "base_name": "АЛЬБІН", "unofficial_vars": "АЛЬБІНОНЬКА, АЛЬБІНОЧКА, АЛЬБІНКА, АЛЯ"}
+{"entry_id": 25, "name": "АЛЬBІНА", "etymology": "запозичене", "etymology_comment": "німецьке Alwine; жіночий рід, жіноче (ім'я) до Alwin, що є скороченим варіантом імені Adalwin (ден. adal — шляхетний, благородний і wini — друг)", "unofficial_vars": "АЛЬБІНОНЬКА, АЛЬБІНОЧКА, АЛЬБІНКА, АЛЯ"}
+{"entry_id": 26, "name": "АЛЬФРЕДА", "official_vars": null, "base_name": "АЛЬФРЕД", "unofficial_vars": "АЛЬФРЕДОНЬКА, АЛЬФРЕДОЧКА, АЛЬФРЕДКА, АЛЯ; ФРЕДА"}
+{"entry_id": 27, "name": "АНАСТАСІЯ", "official_vars": "НАСТАСІЯ, НАСТЯ", "base_name": "АНАСТАС", "unofficial_vars": "НАСТАСЯ, НАСТАСКА, НАСТА, НАСТКА, НАСТОЧКА, НАСТЕЧКА, НАСТУНЯ, НАСТУНЕНЬКА, НАСТУНЕЧКА, НАСТУНЬКА, НАСТУСЯ, НАСТУСЕНЬКА, НАСТУСЕЧКА, НАСТУШКА, НАСТУШКА, НАТА, НАТОНЬКА, НАТОЧКА, НАЦЯ, НАЦЬКА; СТАСЯ, СТАСЕНЬКА, СТАСЕЧКА, СТАСУНЯ, СТАСУНЬКА, СТАСЬКА; ТУСЯ, ТУСЕНЬКА, ТУСЕЧКА; АСЯ"}
+{"entry_id": 28, "name": "АНАТОЛІЯ", "official_vars": null, "base_name": "АНАТОЛІЙ", "unofficial_vars": "НАТОЛЬКА, НАТА; ТОЛЯ, ТУСЯ, ТУСЕНЬКА"}
+{"entry_id": 29, "name": "АНГЕЛІНА", "etymology": "грецьке", "etymology_comment": "angelos — вісник", "unofficial_vars": "АНГЕЛІНОНЬКА, АНГЕЛІНОЧКА, АНГЕЛКА, АНГЕЛЬЦЯ, АЛІНА, АЛІНКА; ЛІНА"}
+{"entry_id": 30, "name": "АНЖЕЛА", "official_vars": "АНЖЕЛІКА", "etymology": "запозичене", "etymology_comment": "французьке Angélique; від латинське angelica — ангельська", "unofficial_vars": "АНЖЕЛОНЬКА, АНЖЕЛОЧКА, АНЖЕЛКА; ЖЕЛА, ЖЕЛЯ, ЖЕЛОНЬКА, ЖЕЛОЧКА, ЖЕЛУНЯ, ЖЕЛУСЯ, ЖЕЛЮСЯ"}
+{"entry_id": 31, "name": "АННА", "official_vars": null, "equivalent_name": "ГАННА"}
+{"entry_id": 32, "name": "АНТОНИДА", "official_vars": null, "base_name": "АНТІН, АНТОН", "unofficial_vars": "АНТОСЯ, ТОНЯ; НІДА"}
+{"entry_id": 33, "name": "АНТОНІНА", "official_vars": null, "base_name": "АНТОНІН", "unofficial_vars": "АНТОСЯ, АНТОСЕНЬКА, АНТОСЕЧКА, АНТОСЬКА; ТОНЯ, ТОНЕЧКА, ТОНЦЯ, ТОСЯ, ТОСЕНЬКА; НІНА"}
+{"entry_id": 34, "name": "АНТОНІЯ", "official_vars": null, "base_name": "АНТОНІЙ", "unofficial_vars": "АНТОСЯ; ТОНЯ, ТОСЯ"}
+{"entry_id": 35, "name": "АНФІСА", "etymology": "грецьке", "etymology_comment": "antheo — цвіту; anthusa — яка цвіте, квітуча", "unofficial_vars": "АНФІСОНЬКА, АНФІСОЧКА, АНФІСКА; ФІСА"}
+{"entry_id": 36, "name": "АПОЛЛІНАРІЯ", "official_vars": null, "base_name": "АПОЛЛІНАРІЙ", "unofficial_vars": "ПОЛІНА, ПОЛЯ; ЛІНА"}
+{"entry_id": 37, "name": "АПОЛЛОНІЯ", "official_vars": null, "base_name": "АПОЛЛОНІЙ", "unofficial_vars": "ПОЛІНА, ПОЛЯ; ЛІНА"}
+{"entry_id": 38, "name": "АРІАДНА", "etymology": "грецьке", "etymology_comment": "ari — дуже і handano — подобаюся; за іншим тлумаченням — вірна своєму чоловікові. В античній міфології — дочка Міноса, яка допомогла Тесеєві вийти з лабіринту", "unofficial_vars": "АРІАДНОНЬКА, АРІАДНОЧКА, АДА, АДЯ; РАДА"}
+{"entry_id": 39, "name": "АРКАДІЯ", "official_vars": null, "base_name": "АРКАДІЙ", "unofficial_vars": "АДА, АДЯ"}
+{"entry_id": 40, "name": "АРСЕНА", "official_vars": "АРСЕНІЯ", "base_name": "АРСЕН, АРСЕНІЙ", "unofficial_vars": "АРСЕНОНЬКА, АРСЕНОЧКА, АРСЕНКА, АСЯ; СЕНЯ"}
+{"entry_id": 41, "name": "АРТЕМІЯ", "official_vars": null, "base_name": "АРТЕМІЙ", "unofficial_vars": "АРТЕМА, АРТЕМОНЬКА, АРТЕМОЧКА, АРТЕМКА"}
+{"entry_id": 42, "name": "АСЯ",  "etymology": "грецьке", "etymology_comment": "скорочений варіант імені АНАСТАСІЯ, що став документальним, можливо, під впливом однойменної повісті І. С. Тургенєва", "unofficial_vars": "АСЕНЬКА, АСЕЧКА"}
+{"entry_id": 43, "name": "АТЕНА", "official_vars": null, "equivalent_name": "АФІНА"}
+{"entry_id": 44, "name": "АФАНАСІЯ", "official_vars": null, "base_name": "АФАНАСІЙ", "unofficial_vars": "АФАНАСЯ; ФАНЯ"}
+{"entry_id": 45, "name": "АФІНА", "official_vars": "АТЕНА", "etymology": "грецьке", "etymology_comment": "Athena — ім’я богині мудрості і воєнного мистецтва"}
+{"entry_id": 46, "name": "АФРОДІТА", "etymology": "грецьке", "etymology_comment": "Aphrodite — ім’я богині кохання і вроди"}
+{"entry_id": 47, "name": "БЕАТРИСА", "etymology": "запозичене", "etymology_comment": "французьке Beatrice від латинське beata — щаслива", "unofficial_vars": "БЕАТА, БЕАТКА, БЕТА"}
+{"entry_id": 48, "name": "БЕЛЛА", "etymology": "запозичене", "etymology_comment": "від латинське bella — гарна, вродлива", "unofficial_vars": "БЕЛЛОНЬКА, БЕЛЛОЧКА, БЕЛЛУСЯ, БЕЛА, БЕЛОНЬКА, БЕЛОЧКА, БЕЛКА"}
+{"entry_id": 49, "name": "БЕРТА", "etymology": "запозичене", "etymology_comment": "німецьке Berta; ден. Bertha — блискуча", "unofficial_vars": "БЕРТОНЬКА, БЕРТОЧКА, БЕРТУСЯ, БЕТЯ"}
+{"entry_id": 50, "name": "БОГДАНА", "official_vars": null, "base_name": "БОГДАН", "unofficial_vars": "БОГДАНОНЬКА, БОГДАНОЧКА, БОГДАНКА, БОГДАНЦЯ; ДАНА, ДАНЯ, ДАНОНЬКА, ДАНОЧКА, ДАНКА, ДАНУСЯ, ДАНУСЕНЬКА, ДАНУСЕЧКА; ДАНУТА"}
+{"entry_id": 51, "name": "БОГУСЛАВА", "official_vars": null, "base_name": "БОГУСЛАВ", "unofficial_vars": "БОГУСЕНЬКА, БОГУСЕЧКА, БОГУСЯ, БОГУСЬКА; СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 52, "name": "БОЛЕСЛАВА", "official_vars": null, "base_name": "БОЛЕСЛАВ", "unofficial_vars": "БОЛЯ, БОЛЕСЯ, БОЛЕЧКА, БОЛЮНЯ, БОЛЮНЬКА, БОЛЮСЯ; СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 53, "name": "БОРИСЛАВА", "official_vars": null, "base_name": "БОРИСЛАВ", "unofficial_vars": "СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 54, "name": "БРОНІСЛАВА", "official_vars": null, "base_name": "БРОНІСЛАВ", "unofficial_vars": "БРОНЯ, БРОНЕНЬКА, БРОНЕЧКА, БРОНУСЯ; СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 55, "name": "ВАЛЕНТИНА", "official_vars": null, "base_name": "ВАЛЕНТИН", "unofficial_vars": "ВАЛЕНТИНОНЬКА, ВАЛЕНТИНОЧКА, ВАЛЯ, ВАЛЕЧКА, ВАЛЮСЯ, ВАЛЮША, ВАЛЮШКА, ВАЛЮНЯ; ТІНА, ТІНОНЬКА, ТІНОЧКА, ТІНКА"}
+{"entry_id": 56, "name": "ВАЛЕРІЯ", "official_vars": null, "base_name": "ВАЛЕРІЙ", "unofficial_vars": "ВАЛЕРА, ВАЛЕРОНЬКА, ВАЛЕРОЧКА, ВАЛЕРКА, ВАЛЕРЦЯ, ВАЛЯ; ЛЕРА, ЛЕРОНЬКА, ЛЕРОЧКА, ЛЕРУНЯ, ЛЕРУСЯ"}
+{"entry_id": 57, "name": "ВАНДА", "etymology": "слов'янське", "etymology_comment": "n. Wanda; походження імені остаточно не з'ясоване; можливо, від назви річки Vandalus, помилково ототожнюваної з Віслою, або від латинське Veneda — слов'янське'янка", "unofficial_vars": "ВАНДОНЬКА, ВАНДОЧКА, ВАНДУСЯ"}
+{"entry_id": 58, "name": "ВАРВАРА", "etymology": "грецьке", "etymology_comment": "barbaros — чужоземець", "unofficial_vars": "ВАРВАРОНЬКА, ВАРВАРОЧКА, ВАРКА, ВАРЯ, ВАРОНЬКА, ВАРОЧКА, ВАРУСЯ, ВАРЮНЯ, ВАРЮТОНЬКА, ВАРЮТОЧКА"}
+{"entry_id": 59, "name": "ВАСИЛИНА", "official_vars": null, "base_name": "ВАСИЛЬ", "unofficial_vars": "ВАСИЛИНОНЬКА, ВАСИЛИНОЧКА, ВАСИЛИНКА, ВАСИЛЬКА, ВАСЯ, ВАСЮНЯ, ВАСЬКА"}
+{"entry_id": 60, "name": "ВАССА", "etymology": "грецьке", "etymology_comment": "можливо, від bassa — лісиста ущелина або від назви міста Bēssa", "unofficial_vars": "ВАССОНЬКА, ВАССОЧКА, ВАСЯ, ВАСЮНЯ, ВАСЬКА"}
+{"entry_id": 61, "name": "ВЕКЛА", "official_vars": null, "equivalent_name": "ТЕКЛЯ"}
+{"entry_id": 62, "name": "ВЕНЕРА", "etymology": "латинське", "etymology_comment": "Venus (родовий відмінок Veneris) — Венера; в давньоримській міфології — богиня кохання і вроди", "unofficial_vars": "ВЕНЕРОНЬКА, ВЕНЕРОЧКА, ВЕНЕРКА, ВЕНЯ; НЕРА"}
+{"entry_id": 63, "name": "ВЕРОНІКА", "etymology": "грецьке", "etymology_comment": "від рhero — несу і nike — перемога (буквально: та, що приносить перемогу)", "unofficial_vars": "ВЕРОНА, ВЕРОНКА, ВЕРОНЦЯ, ВЕРОНЯ, ВЕРОНЬКА, ВЕРУНЬКА, ВІРА, ВІКА, ВІКУСЯ; НІКА"}
+{"entry_id": 64, "name": "ВІВДЯ", "official_vars": null, "equivalent_name": "ЄВДОКІЯ"}
+{"entry_id": 65, "name": "ВІКТОРИНА", "official_vars": null, "base_name": "ВІКТОРИН", "unofficial_vars": "ВІТА; РИНА"}
+{"entry_id": 66, "name": "ВІКТОРІЯ", "etymology": "латинське", "etymology_comment": "victoria — перемога", "unofficial_vars": "ВІТА, ВІТОНЬКА, ВІТОЧКА, ВІТКА, ВІТУСЯ, ВІКТА, ВІКТУСЯ, ВІКА, ВІКУСЯ"}
+{"entry_id": 68, "name": "ВІОЛЕТТА", "etymology": "запозичене", "etymology_comment": "поширилося під впливом  опери Джузеппе Верді “Травіата”; від італійське violetta (французьке vio-  lette) — фіалка", "unofficial_vars": "ВІОЛЕТОНЬКА, ВІОЛЕТОЧКА, ВІОЛЕТКА,  ВІОЛА, ВІТА"}
+{"entry_id": 69, "name": "ВІРА", "etymology": "слов'янське", "etymology_comment": "запозичене із старослов'янське, де з’явилось як  калька з грецьке імені Pistis; від pistis — віра", "unofficial_vars": "ВІРОНЬКА,  ВІРОЧКА, ВІРУНЯ, ВІРУНЬКА, ВІРУСЯ, ВІРУСЬКА, ВІРКА,  ВІРЦЯ"}
+{"entry_id": 70, "name": "ВІРГІНІЯ", "etymology": "латинське", "etymology_comment": "virgo (родовий відмінок virginis) — дівчина", "unofficial_vars": "ВІРГІНА, ВІРА; ІНА"}
+{"entry_id": 71, "name": "ВІРИНЕЯ", "etymology": "латинське", "etymology_comment": "virens — зелений; молодий, свіжий, квітучий", "unofficial_vars": "ВІРА; РИНА; НЕЯ"}
+{"entry_id": 72, "name": "ВІРОСЛАВА", "official_vars": null, "base_name": "ВІРОСЛАВ", "unofficial_vars": "ВІРА; СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 73, "name": "ВІТА", "etymology": "латинське", "etymology_comment": "vita — життя", "unofficial_vars": "ВІТОНЬКА, ВІТОЧКА, ВІТКА, ВІТУСЯ, ВІТУСЕНЬКА, ВІТУСЕЧКА, ВІТУСЬКА"}
+{"entry_id": 74, "name": "ВІТАЛІНА", "official_vars": null, "base_name": "ВІТАЛІЙ", "unofficial_vars": "ВІТАЛІНОНЬКА, ВІТАЛІНОЧКА, ВІТА; ЛІНА; ТАЛА"}
+{"entry_id": 75, "name": "ВІТАЛІЯ", "official_vars": null, "base_name": "ВІТАЛІЙ", "unofficial_vars": "ВІТА; ТАЛА"}
+{"entry_id": 76, "name": "ВЛАДА", "etymology": "слов'янське", "etymology_comment": "від влад- (старослов'янське владѣти — володіти)", "unofficial_vars": "ВЛАДОНЬКА, ВЛАДОЧКА, ВЛАДУНЯ, ВЛАДУСЯ, ВЛАДКА; ЛАДА"}
+{"entry_id": 77, "name": "ВЛАДИЛЕНА", "official_vars": null, "base_name": "ВЛАДИЛЕН", "unofficial_vars": "ВЛАДА; ЛАДА; ЛЕНА"}
+{"entry_id": 78, "name": "ВЛАДИСЛАВА", "official_vars": null, "base_name": "ВЛАДИСЛАВ", "unofficial_vars": "ВЛАДА; СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 79, "name": "ВЛАДЛЕНА", "official_vars": null, "base_name": "ВЛАДЛЕН", "unofficial_vars": "ВЛАДА; ЛАДА; ЛЕНА"}
+{"entry_id": 80, "name": "ВЛАСТА", "etymology": "слов'янське", "etymology_comment": "чеське Vlasta — від vlast (батьківщина, вітчизна)"}
+{"entry_id": 81, "name": "ВОЛОДИМИРА", "official_vars": null, "base_name": "ВОЛОДИМИР", "unofficial_vars": "ВОЛОДЯ, ВОЛОДКА, ВОЛОДЬКА; МИРА, МИРОСЯ, МИРОСЕНЬКА, МИРОСЕЧКА, МИРОСЬКА, МИРКА, МИРЦЯ"}
+{"entry_id": 82, "name": "ВОЛЯ", "etymology": "нове", "etymology_comment": "від загального іменника воля", "unofficial_vars": "ВОЛЕНЬКА, ВОЛЕЧКА"}
+{"entry_id": 83, "name": "ВСЕСЛАВА", "official_vars": null, "base_name": "ВСЕСЛАВ", "unofficial_vars": "СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 84, "name": "В'ЯЧЕСЛАВА", "official_vars": null, "base_name": "В'ЯЧЕСЛАВ", "unofficial_vars": "СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 85, "name": "ГАЇНА", "half_official_vars": "ГАЇАНІЯ", "etymology": "грецьке", "etymology_comment": "можливо, від gaiа — земля", "unofficial_vars": "ГАЇНКА, ГАЇНОНЬКА, ГАЇНОЧКА"}
+{"entry_id": 85, "name": "ГАННА", "half_official_vars":  "АННА", "etymology": "давньоєврейське",  "etymology_comment": "ім’я Channa; від chänan — він був милостивий, виявляв ласку", "unofficial_vars": "ГАННОНЬКА, ГАННОЧКА, ГАНКА, ГАНЯ, ГАНЬКА, ГАННУСЯ, ГАННУСЕНЬКА, ГАННУСЕЧКА, ГАННУЛЬКА, ГАННУЛЯ, ГАННУЛЕНЬКА, ГАННУЛЕЧКА, ГАННУЛЬКА, ГАННУНЯ, ГАННУНЕНЬКА, ГАННУНЕЧКА, ГАННУНЕЙКА, ГАННУШКА, ГАНУСЯ, ГАНУСЬКА, ГАНУЛЬКА, ГАНДЗЯ, ГАНДЗЮНЯ, ГАНДЗЮНЕНЬКА, ГАНДЗЮНЕЧКА, ГАНЦЯ, ГАНЦЮНЯ, ГАНЦУНЯ; АНЯ, АННУСЯ, АННУНЯ, АННИЦЯ, АННИЧКА, АНКА, АНЦЯ, АНЮТА, АНЮТОНЬКА, АНЮТОЧКА, АНЮТКА; НЮРА, НЮРОНЬКА, НЮРОЧКА, НЮСЯ, НЮСЕНЬКА, НЮСЕЧКА, НЮТА, НЮТОНЬКА, НЮТОЧКА, НУСЯ, НУСЕНЬКА, НУСЕЧКА, НУСУНЯ, НУЦЯ, НУЦЕНЬКА, НУЦЕЧКА; ГАЛЯ"}
+{"entry_id": 86, "name": "ГАЛИНА", "etymology": "грецьке", "etymology_comment": "galēnē — спокій, тиша; штиль на морі, тиха погода", "unofficial_vars": "ГАЛИНОНЬКА, ГАЛИНОЧКА, ГАЛИНКА, ГАЛЯ, ГАЛЮНЯ, ГАЛЮНЬКА, ГАЛЮСЯ, ГАЛЮСЕНЬКА, ГАЛЮТОНЬКА, ГАЛЮТОЧКА, ГАЛЮТЕНЬКА, ГАЛОНЬКА, ГАЛОЧКА, ГАЛЕЧКА, ГАЛКА, ГАЛЬКА"}
+{"entry_id": 87, "name": "ГАФІЯ", "official_vars": null, "equivalent_name": "АГАФІЯ"}
+{"entry_id": 88, "name": "ГЕЛЕНА", "etymology": "слов'янське:", "etymology_comment": "n. Helena; фонетичний варіант  імені Олена. ГЕЛЕНКА, ГЕЛЯ, ГЕЛЮСЯ, ГЕЛЮСЬКА, ГЕ-  ЛЮНЬКА, ГЕЛЮСЕНЬКА, ГЕЛЬКА, ГЕЛЬЦЯ"}
+{"entry_id": 89, "name": "ГЕОРГІНА", "official_vars": null, "base_name": "ГЕОРГІЙ", "unofficial_vars": "ГЕОРГІНКА, ГЕОРГІНОНЬКА, ГЕОРГІНОЧКА, ГЕРА; ІНА"}
+{"entry_id": 90, "name": "ГЕОРГІНА", "etymology": "нове", "etymology_comment": "від російське назви квітки “георгин” (жоржина)", "unofficial_vars": "ГЕОРГІНКА, ГЕОРГІНОНЬКА, ГЕОРГІНОЧКА, ГЕРА; ІНА"}
+{"entry_id": 91, "name": "ГЕРТРУДА", "etymology": "запозичене", "etymology_comment": "німецьке Gertrud, Gertrude; давньоверхньонімецьке ger — спис і давньоверхньонімецьке trut — сильний, міцний", "unofficial_vars": "ГЕРТА, ГЕРА, ГРЕТА; ТРУДА"}
+{"entry_id": 92, "name": "ГЛАФІРА", "etymology": "грецьке", "etymology_comment": "glaphyra — струнка, елегантна", "unofficial_vars": "ГЛАФІРОНЬКА, ГЛАФІРОЧКА, ГЛАФІРКА, ГЛАЙНЯ, ГЛАЙНЬКА, ГЛАША; ФІРА"}
+{"entry_id": 93, "name": "ГЛИКЕРІЯ", "official_vars": "ЛИКЕРІЯ, ЛИКЕРА", "base_name": "ГЛИКЕРІЙ", "unofficial_vars": "ЛИКЕРКА, ЛИКЕРОНЬКА, ЛИКЕРОЧКА; ГЛИКЕРЦЯ"}
+{"entry_id": 94, "name": "ГОРПІНА", "official_vars": null, "equivalent_name": "АГРИПІНА"}
+{"entry_id": 95, "name": "ГУСТАВА", "official_vars": null, "base_name": "ГУСТАВ", "unofficial_vars": "ГУСТА, ГУСТУСЯ, ГУСТЯ, ГУСЯ"}
+{"entry_id": 96, "name": "ДАНИЇЛА", "official_vars": null, "base_name": "ДАНИЛО", "unofficial_vars": "ДАНА, ДАНЯ, ДАНКА, ДАНОНЬКА, ДАНОЧКА, ДАНУСЕНЬКА, ДАНУСЕЧКА, ДАНУСЯ, ДАНУСЬКА"}
+{"entry_id": 97, "name": "ДАРИНА", "official_vars": "ОДАРИНА, ОДАРКА", "base_name": "ДАРІЙ", "unofficial_vars": "ДАРІИНКА, ДАРІЙКА, ДАРА, ДАРОНЬКА, ДАРОЧКА, ДАРКА, ДАРЦЯ, ДАРУСЯ, ДАРУСЕНЬКА, ДАРУСЕЧКА, ДАРУНЯ, ДАРУНЕНЬКА, ДАРУНЕЧКА, ДАША, ДАШЕНЬКА; ОДАРЯ, ОДАРОНЬКА, ОДАРОЧКА; ДОРА"}
+{"entry_id": 99, "name": "ДЗВЕНИСЛАВА", "etymology": "слов'янське", "etymology_comment": "від дзвен- (дзвеніти) і слав- (слава)", "unofficial_vars": "ДЗВІНКА, ДЗВІНОНЬКА, ДЗВІНОЧКА, ДЗВІНУСЯ; СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 100, "name": "ДІАНА", "etymology": "латинське", "etymology_comment": "deus — бог; в давньоримській міфології Діана (Diana) — богиня Місяця і полювання", "unofficial_vars": "ДІНА; АНА, АНЯ"}
+{"entry_id": 101, "name": "ДІНА", "etymology": "грецьке", "etymology_comment": "можливо, від dynamis — сила, міць, могутність, влада або від арабське din — віра"}
+{"entry_id": 102, "name": "ДОМНА", "half_official_vars": "ДОМАХА", "etymology": "латинське", "etymology_comment": "domina — пані, господиня", "unofficial_vars": "ДОМА, ДОМОНЬКА, ДОМОЧКА, ДОМКА, ДОМЦЯ, ДОМАСЯ, ДОМАСЕНЬКА, ДОМАСЕЧКА, ДОМАСЬКА, ДОМУНЯ, ДОМУНЕНЬКА, ДОМУНЕЧКА, ДОМУНЬКА, ДОМУСЯ, ДОМУСЕНЬКА, ДОМУСЕЧКА, ДОМУСЬКА, ДОМАШЕНЬКА, ДОМАШЕЧКА, ДОМАШКА"}
+{"entry_id": 103, "name": "ДОРА", "etymology": "грецьке", "etymology_comment": "можливо, від dōron — дар, дарунок; могло виникнути як скорочений варіант імен Дорофея, Федора і под", "unofficial_vars": "ДОРОНЬКА, ДОРОЧКА, ДОРКА, ДОРЦЯ, ДОРУНЯ, ДОРУНЕНЬКА, ДОРУНЬКА, ДОРУСЯ, ДОРУСЕНЬКА, ДОРУСЬКА, ДОРЯ"}
+{"entry_id": 104, "name": "ДОРОФЕЯ", "official_vars": "ДОРОТЕЯ", "base_name": "ДОРОФІЙ", "unofficial_vars": "ДОРА, ДОРЯ; ФЕЯ"}
+{"entry_id": 105, "name": "ЕВЕЛІНА", "official_vars": "ЄВА", "etymology": "запозичене", "etymology_comment": "німецьке, англійське Eveline, Evelyn; можливо", "unofficial_vars": "ЕВЕЛІНКА, ЕЛА, ЕЛЯ; ВЕЛЯ; ЛІНА"}
+{"entry_id": 106, "name": "ЕДІТА", "official_vars": "ЕДІТ", "etymology": "запозичене", "etymology_comment": "англійське Edith; від д-англійське ēad — успадковане майно і gūð (gŷð) — боротьба, битва"}
+{"entry_id": 107, "name": "ЕЛЕОНОРА", "official_vars": "ЛЕОНОРА", "etymology": "запозичене", "etymology_comment": "німецьке Eleonora, Elenore, Leonore; можливо, від грецьке eleos — співчуття", "unofficial_vars": "ЕЛА, ЕЛОНЬКА, ЕЛОЧКА, ЕЛЯ, ЕЛЮНЯ, ЕЛЮСЯ; НОРА"}
+{"entry_id": 108, "name": "ЕЛІНА", "etymology": "запозичене", "etymology_comment": "французьке Eliane — жіночий рід, жіноче (ім'я) до Elias — Ілля", "unofficial_vars": "ЕЛІНОНЬКА, ЕЛІНОЧКА, ЕЛІНКА, ЕЛА, ЕЛЯ; ЛІНА"}
+{"entry_id": 109, "name": "ЄЛЛА", "etymology": "запозичене", "etymology_comment": "німецьке Ella — скорочений варіант імен Eleonore, Elfriede, Elisabeth і под", "unofficial_vars": "ЄЛЛОНЬКА, ЄЛЛОЧКА, ЄЛА, ЄЛЯ"}
+{"entry_id": 110, "name": "ЕЛЬВІНА", "etymology": "запозичене", "etymology_comment": "німецьке Elwine (Alwine); жіночий рід, жіноче (ім'я) до Alwin, що є скорочений, скорочення варіантом імені Adalwin (давньоверхньонімецьке adal — шляхетний, благородний і давньоверхньонімецьке wini — друг)", "unofficial_vars": "ЕЛЬВІНОНЬКА, ЕЛЬВІНОЧКА, ЕЛЬВІНКА, ЄЛА, ЄЛЯ; ЛІНА"}
+{"entry_id": 111, "name": "ЕЛЬВІРА", "etymology": "запозичене", "etymology_comment": "німецьке Elwira; можливо, від чоловічий рід, чоловіче ім'я Альварес або від д.германське Alverat: aelf — ельф і rad — порада, рада, або від Alwara: al — весь, все і war, wards — захист", "unofficial_vars": "ЕЛЬВІРОНЬКА, ЕЛЬВІРОЧКА, ЕЛЬВІРКА, ЕЛЬВІСЯ, ЄЛА, ЄЛЯ"}
+{"entry_id": 112, "name": "ЕЛЬЗА", "etymology": "запозичене", "etymology_comment": "німецьке Else; скорочений варіант імені Elisabeth; дивись ЄЛИЗАВЕТА", "unofficial_vars": "ЕЛЬЗОНЬКА, ЕЛЬЗОЧКА"}
+{"entry_id": 113, "name": "ЕМІЛІЯ", "official_vars": null, "half_official_vars": "ЕМІЛА", "base_name": "ЕМІЛЬ", "unofficial_vars": "ЕМА; МІЛА, МІЛОНЬКА, МІЛОЧКА, МІЛЯ, МІЛЬКА, МІЛЬЦЯ"}
+{"entry_id": 114, "name": "ЕММА", "etymology": "запозичене", "etymology_comment": "німецьке Emma — скорочений варіант імен із складовою частиною Irm-(Erm-), зокрема, Irmgard, Erm-gard і под., що став документальним", "unofficial_vars": "ЕМА, ЕМОНЬКА, ЕМОЧКА"}
+{"entry_id": 115, "name": "ЕРА", "etymology": "нове", "etymology_comment": "від загального іменника ера", "unofficial_vars": "ЕРОНЬКА, ЕРОЧКА"}
+{"entry_id": 116, "name": "ЕРНА", "etymology": "запозичене", "etymology_comment": "німецьке Erna — скорочений варіант ряду імен, у тому числі Ernesta, що став документальним"}
+{"entry_id": 117, "name": "ЕСФІР", "official_vars": "ЕСТЕР", "half_official_vars": "ЕСТЕРКА", "etymology": "давньоєврейське", "etymology_comment": "ім’я ’Estēr; перське sitāre (āstara) — зірка", "unofficial_vars": "ЕСФІРОНЬКА, ЕСФІРОЧКА, ЕСФІРКА; ФІРА"}
+{"entry_id": 118, "name": "ЄВА", "etymology": "давньоєврейське", "etymology_comment": "Ḥauṣā — за біблійним переказом, ім’я першої жінки, дружини Адама; від ḥaḷḷa — жива", "unofficial_vars": "ЄВОНЬКА, ЄВОЧКА, ЄВУНЯ, ЄВУНЕНЬКА, ЄВУСЯ, ЄВУСЕНЬКА, ЄВКА, ЄВЦЯ"}
+{"entry_id": 119, "name": "ЄВГЕНІЯ", "official_vars": null, "half_official_vars": "ЄВГЕНА, ІВГА, ЮГИНА", "base_name": "ЄВГЕН", "unofficial_vars": "ЄВГЕНОНЬКА, ЄВГЕНОЧКА, ЄВГЕНКА; ІВГОНЬКА, ІВГОЧКА; ГЕНЯ, ГЕНОНЬКА, ГЕНКА, ГЕНЬКА, ГЕНЦЯ, ГЕНОЧКА, ГЕНУСЯ, ГЕНУЛЯ; ЖЕНЯ, ЖЕНЬКА; ЮГИНОНЬКА, ЮГИНОЧКА, ЮГИНКА"}
+{"entry_id": 120, "name": "ЄВДОКІЯ", "official_vars": "ДОКІЯ", "half_official_vars": "ЯВДОХА, ВІВДЯ", "etymology": "грецьке", "etymology_comment": "eudokia — благовоління; добра слава", "unofficial_vars": "ЄВДОСЯ; ДОКІЙКА, ДОКІЄНКА, ДОКІЄЧКА, ДОСЯ, ДОСЕНЬКА, ДОСЕЧКА, ДОСЬКА, ДОЦЯ, ДОЦЕНЬКА, ДОЦЕЧКА, ДОЦЬКА, ДУСЯ, ДУСЕНЬКА, ДУСЕЧКА, ДУНЯ, ДУНЕНЬКА, ДУНЕЧКА; ЯВДОНЯ, ЯВДОНЕНЬКА, ЯВДОНЕЧКА, ЯВДОШЕНКА, ЯВДОШЕЧКА, ЯВДОШКА"}
+{"entry_id": 121, "name": "ЄВДОКСІЯ", "official_vars": null, "base_name": "ЄВДОКСІЙ", "unofficial_vars": "ЄВА; ДОСЯ, ДОЦЯ"}
+{"entry_id": 122, "name": "ЄВЛАЛІЯ", "etymology": "грецьке", "etymology_comment": "eulalos — який добре говорить", "unofficial_vars": "ЄВА; ЛЯЛЯ, ЛЯЛЕНЬКА, ЛЯЛЕЧКА"}
+{"entry_id": 123, "name": "ЄВЛАМПІЯ", "official_vars": null, "base_name": "ЄВЛАМПІЙ", "unofficial_vars": "ЄВЛАНЯ, ЄЛЯ, ЄВА; ЛАНЯ, ЛАНЕЧКА, ЛАНЬКА"}
+{"entry_id": 124, "name": "ЄВНИКІЯ", "etymology": "грецьке", "etymology_comment": "eu — добре і nikē — перемога", "unofficial_vars": "ЄВА"}
+{"entry_id": 125, "name": "ЄВПРАКСІЯ", "half_official_vars": "ЄВПРАКСЯ, ПРАКСЯ", "etymology": "грецьке", "etymology_comment": "eupraxia — щастя, благоденство", "unofficial_vars": "ЄВА; ПАРАСЯ"}
+{"entry_id": 126, "name": "ЄВСЕВІЯ", "official_vars": null, "base_name": "ЄВСЕВІЙ", "unofficial_vars": "ЄВА; СЕВА"}
+{"entry_id": 127, "name": "ЄВСТАХІЯ", "official_vars": "ЄВСТАФІЯ", "base_name": "ЄВСТАХІЙ", "unofficial_vars": "СТАХА, СТАШКА, СТАСЯ"}
+{"entry_id": 128, "name": "ЄВТИХІЯ", "official_vars": null, "base_name": "ЄВТИХІЙ", "unofficial_vars": "ЄВА"}
+{"entry_id": 129, "name": "ЄВФРАСІЯ", "official_vars": null, "base_name": "ЄВФРАСІЙ", "unofficial_vars": "ФРОСЯ, ФРОСЬКА"}
+{"entry_id": 130, "name": "ЄЛИЗАВЕТА", "half_official_vars": "ЛИСАВЕТА", "etymology": "давньоєврейське", "etymology_comment": "ім’я 'Elīšebha' — Бог мій — клятва, Богом я клянуся", "unofficial_vars": "ЛІЗА, ЛІЗОНЬКА, ЛІЗОЧКА, ЛІЗКА"}
+{"entry_id": 131, "name": "ЄПИСТИМА", "half_official_vars": "ЛЕПЕСТИНА, ОПИСТИНА, ПЕСТИНА, ПИСТИНА", "etymology": "грецьке", "etymology_comment": "epistème — знання, уміння", "unofficial_vars": "ПЕСТИНОНЬКА, ПЕСТИНОЧКА, ПЕСТИНКА, ПЕСТЯ"}
+{"entry_id": 132, "name": "ЄФІМІЯ", "official_vars": null, "equivalent_name": "ЮХІМІЯ"}
+{"entry_id": 133, "name": "ЄФРОСИНІЯ", "official_vars": "ФРОСИНА", "half_official_vars": "ПРІСЬКА", "base_name": "ЄФРОСИН", "unofficial_vars": "ФРОСЯ, ФРОСИНКА, ФРОСИНОНЬКА, ФРОСИНОЧКА, ФРОСЬКА; ПРІСЯ, ПРІСЕНЬКА, ПРІСЕЧКА, ПРОНЯ; ФРУЗЯ, ФРУЗЬКА"}
+{"entry_id": 134, "name": "ЖАННА", "etymology": "запозичене", "etymology_comment": "французьке Jeanne — жіночий рід, жіноче (ім'я) до Jean. Див. ІВАН", "unofficial_vars": "ЖАНА, ЖАННОНЬКА, ЖАННОЧКА, ЖАННУСЯ, ЖАНОНЬКА, ЖАНОЧКА, ЖАНУСЯ, ЖАСЯ, ЖАСЕНЬКА"}
+{"entry_id": 135, "name": "ЖОЗЕФІНА", "etymology": "запозичене", "etymology_comment": "французьке Joséphine — жіночий рід, жіноче (ім'я) до чоловічий рід, чоловіче ім'я імені Joseph. Див", "unofficial_vars": "ЙОСИП"}
+{"entry_id": 136, "name": "ЗЕМФІРА", "etymology": "запозичене", "etymology_comment": "молдавське Замфира — від грецьке sappheiros, sampheiros — сапфір. Поширилося під впливом поеми О. С. Пушкіна “Цигани”, де його вжито як Земфира (російське)", "unofficial_vars": "ЗЕМА; ФІРА"}
+{"entry_id": 137, "name": "ЗІНАЇДА", "etymology": "грецьке", "etymology_comment": "ім’я Zēnais (родовий відмінок Zēnaentry_idos); Zēna — знах. відмінок від Zeus — Зевс і eentry_idos — нащадок або вид, подоба (буквально: подібна до Зевса)", "unofficial_vars": "ЗІНА, ЗІНОНЬКА, ЗІНОЧКА, ЗІНУЛЯ, ЗІНУНЯ, ЗІНУСЯ, ЗІНЬКА, ЗІНКА, ЗІНЦЯ, ЗЕНА, ЗЕНКА, ЗЕНЯ, ЗЕНЬКА"}
+{"entry_id": 138, "name": "ЗІНОВІЯ", "official_vars": null, "base_name": "ЗІНОВІЙ", "unofficial_vars": "ЗІНА, ЗІНЬКА"}
+{"entry_id": 139, "name": "ЗЛАТА", "etymology": "слов'янське", "etymology_comment": "болгарське Злата; злата — коротка форма  прикметник жіночий рід, жіноче (ім'я) роду (від златен — золотий); чеське zlata — золота  (від zlaty — золотий)", "unofficial_vars": "ЗЛАТОНЬКА, ЗЛАТОЧКА, ЗЛАТКА"}
+{"entry_id": 140, "name": "ЗЛАТОСЛАВА", "etymology": "слов'янське", "etymology_comment": "від злат- (злато) і слав-  (слава)", "unofficial_vars": "ЗЛАТА, ЗЛАТОНЬКА, ЗЛАТОЧКА, ЗЛАТКА;  СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 141, "name": "ЗОРЕСЛАВА", "etymology": "слов'янське", "etymology_comment": "від зор- (зоря) і слав- (слава)", "unofficial_vars": "ЗОРЯ, ЗІРКА, ЗІРОНЬКА, ЗІРОЧКА, ЗІРУСЯ; СЛАВА,  СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 142, "name": "ЗОРИНА", "etymology": "слов'янське", "etymology_comment": "нове; від загального іменника зоря.  ЗОРИНКА, ЗОРИНОНЬКА, ЗОРИНОЧКА, ЗОРЯ "}
+{"entry_id": 143, "name": "ЗОРЯ", "etymology": "слов'янське", "etymology_comment": "нове; від загального іменника зоря.  ЗОРЕНЬКА, ЗІРКА"}
+{"entry_id": 145, "name": "ЗОЯ", "etymology": "грецьке", "etymology_comment": "zoë — життя", "unofficial_vars": "ЗОЄНЬКА, ЗОЄЧКА, ЗОЙКА"}
+{"entry_id": 146, "name": "ІВАНИНА", "official_vars": null, "base_name": "ІВАН", "unofficial_vars": "ІВАНКА, ІВАНЦЯ "}
+{"entry_id": 147, "name": "ІВАННА", "official_vars": null, "base_name": "ІВАН", "unofficial_vars": "ІВАННОНЬКА, ІВАННОЧКА, ІВАНКА, ІВАНЦЯ; ЯНА, ЯНКА, ЯНОНЬКА, ЯНОЧКА, ЯНЦЯ, ЯНІНКА, ЯНУСЯ, ЯСЯ, ЯСОНЬКА, ЯСОЧКА, ЯСЮНЯ"}
+{"entry_id": 148, "name": "ІДА", "etymology": "грецьке", "etymology_comment": "можливо, від entry_ida — назва гори", "unofficial_vars": "ІДОНЬКА, ІДОЧКА, ІДУСЯ"}
+{"entry_id": 149, "name": "ІЗАБЕЛЛА", "official_vars": "ЄЛИЗАВЕТА", "etymology": "запозичене", "etymology_comment": "іспанське Isabel, італійське Isabella, французьке Isabelle; можливо", "unofficial_vars": "ІЗАБЕЛОНЬКА, ІЗАБЕЛОЧКА; БЕЛА"}
+{"entry_id": 150, "name": "ІЗОЛЬДА", "etymology": "запозичене", "etymology_comment": "німецьке Isolde; від давньоверхньонімецьке Ishilde (давньоверхньонімецьке isan — залізо, меч і давньоверхньонімецьке hiltja — боротьба, битва) або від давньоанглійське Essyltis — лід, крига і weald — панування", "unofficial_vars": "ІЗОЛЬДОНЬКА, ІЗОЛЬДОЧКА, ІЗА; ЗОЛЬДА, ЗОЛЯ"}
+{"entry_id": 152, "name": "ІНГА", "etymology": "запозичене", "etymology_comment": "ден. Inga; ingnо — Бог", "unofficial_vars": "ІНА"}
+{"entry_id": 153, "name": "ІНЕСА", "etymology": "запозичене", "etymology_comment": "німецьке Ines; можливо, за назвою грецьке міста Іnessa — Інеса", "unofficial_vars": "ІНА"}
+{"entry_id": 154, "name": "ІННА", "etymology": "латинське", "etymology_comment": "innō — плаваю; можливо, від болгарське Іна — скорочений, скорочення імен типу Катерина; раніше було лише чоловічим ім’ям", "unofficial_vars": "ІННОНЬКА, ІННОЧКА, ІННУСЯ, ІННУСЕНЬКА, ІННУСЕЧКА, ІНА, ІНУСЯ, ІНУСЬКА, ІНЦЯ"}
+{"entry_id": 155, "name": "ІОЛАНТА", "etymology": "запозичене", "etymology_comment": "німецьке Iolanthe; з іспанське Violante, від латинське viola — фіалка", "unofficial_vars": "ЛАНА"}
+{"entry_id": 156, "name": "ІРАЇДА", "etymology": "грецьке", "etymology_comment": "hērОis (родовий відмінок hērОentry_idos) — героїня; за іншим тлумаченням — дочка Гери (дружини Зевса); бажана дочка", "unofficial_vars": "ІРА, ІДА; PAЯ"}
+{"entry_id": 157, "name": "ІРИНА", "official_vars": "ЯPИНА", "etymology": "грецьке", "etymology_comment": "eirēnē — мир, спокій", "unofficial_vars": "IPИНОНЬКА, IPИНОЧКА, IPИНКА, ÍPA, ÍPOHЬКА, ÍPOЧКА, IPУНЯ, IPУНЕНЬКА, IPУНЕЧКА, IPУНЬКА, IPУСЯ, IPУСЕНЬКА, IPУСЕЧКА, IPУСЬКА, ÍPЦЯ; IPИНОНЬКА, IPИНОЧКА, IPИНКА, IPИСЯ, IPУСЯ; PИНА, PИНОНЬКА, PИНОЧКА, PИНКА"}
+{"entry_id": 158, "name": "ІРМА", "etymology": "запозичене", "etymology_comment": "німецьке Irma — скорочений варіант імен, що мають складовою частиною Irm(in)"}
+{"entry_id": 159, "name": "ІСИДОРА", "etymology": "грецьке", "etymology_comment": "Isis — Ісіда і dōron — дар, дарунок", "unofficial_vars": "СИДОРА, СИДОРОНЬКА, СИДОРОЧКА, СИДОРКА, СИДОРЦЯ; ДОРА; ІСЯ, ІСЕНЬКА, ІСЕЧКА"}
+{"entry_id": 160, "name": "ІФІГЕНІЯ", "etymology": "грецьке", "etymology_comment": "ім’я Iphigeneia; iphi — доблесно і genos — рід, походження; в античній міфології Іфігенія — героїня ряду міфів"}
+{"entry_id": 161, "name": "ІВГА", "official_vars": null, "equivalent_name": "ЄВГЕНІЯ"}
+{"entry_id": 162, "name": "ЙОСИПА", "official_vars": "ОСИПА", "base_name": "ЙОСИП, ОСИП", "unofficial_vars": "ЮЗЯ, ЮЗУНЯ, ЮЗЮНЯ, ЮЗЬКА, ЮЗКА"}
+{"entry_id": 163, "name": "КАЗИМИРА", "official_vars": null, "base_name": "КАЗИМИР","unofficial_vars": "КАЗЯ, КАЗИКА, КАЗЬКА; МІРА, МІРОНЬКА, МІРОЧКА, МІРКА"}
+{"entry_id": 164, "name": "КАЛЕРІЯ",   "official_vars": "ВАЛЕРІЯ", "etymology": "грецьке", "etymology_comment": "kalē — добра, гарна; за іншим тлумаченням", "unofficial_vars": "КАЛЯ; ЛЕРА"}
+{"entry_id": 165, "name": "КАЛИНА", "etymology": "слов'янське", "etymology_comment": "1) від загальної назви рослини — калина; 2) від грецьке kallos — краса і nike — перемога (порівняй чоловічий рід, чоловіче ім'я КАЛЕНИК, КАЛИНА)", "unofficial_vars": "КАЛИНКА, КАЛИНОНЬКА, КАЛИНОЧКА, КАЛИНЦЯ"}
+{"entry_id": 166, "name": "КАЛІСТА", "official_vars": null, "base_name": "КАЛІСТ", "unofficial_vars": "КАЛЯ; АЛІСА, АЛЯ"}
+{"entry_id": 167, "name": "КАМІЛА", "etymology": "латинське", "etymology_comment": "camillus — молода людина із знатної родини, зобов’язана бути присутньою при жертвопринесеннях", "unofficial_vars": "КАМА; МІЛА, МІЛОНЬКА, МІЛОЧКА, МІЛЯ, МІЛЬЦЯ"}
+{"entry_id": 168, "name": "КАПІТОЛІНА", "etymology": "латинське", "etymology_comment": "Capitolina — капітолійська; від Capitolium — Капітолій — назва пагорба в Римі", "unofficial_vars": "КАПА; ТОЛЯ; ЛІНА"}
+{"entry_id": 169, "name": "КАРИНА", "etymology": "латинське", "etymology_comment": "carina — кіль корабля"}
+{"entry_id": 170, "name": "КАРИНА", "etymology": "нове", "etymology_comment": "від Карське море. Первісно — ім’я дівчинки, яка народилася на пароплаві “Челюскін” у серпні 1933 року під час історичної експедиції полярників", "unofficial_vars": "КАРИНОНЬКА, КАРИНОЧКА; РИНА; ІНА"}
+{"entry_id": 171, "name": "КАРМІЯ", "etymology": "слов'янське, нове", "etymology_comment": "скорочений, скорочення від російське Красная Армия"}
+{"entry_id": 172, "name": "КАРОЛІНА", "etymology": "запозичене", "etymology_comment": "німецьке Karoline — жіночий рід, жіноче (ім'я) до Carolus — латинізованого варіанта імені Karl, КАРОЛІНКА, КАРОЛЯ, КАРОЛЬКА, КАРОЛЬЦЯ, КАЛЯ; ЛІНА"}
+{"entry_id": 173, "name": "КАТЕРИНА", "official_vars": "КАТРЯ", "etymology": "грецьке", "etymology_comment": "katharios — чистий, katharon — чистота", "unofficial_vars": "КАТЕРИНКА, КАТЕРИНОНЬКА, КАТЕРИНОЧКА, КАТРУНЯ, КАТРУНЬКА, КАТРУСЯ, КАТРУСЕНЬКА, КАТРЕЧКА, КАТЯ, КАТЕЧКА, КАТЮША, КАСЯ, КАСЕНЬКА, КАСЬКА, КАСУНЕНЬКА, КАСЮНЯ, КАСЮНЕЙКА"}
+{"entry_id": 174, "name": "КВІТОСЛАВА", "etymology": "слов'янське", "etymology_comment": "від квіт. (квітнути, квіт.) і  слав. (слава)", "unofficial_vars": "КВІТКА, КВІТОНЬКА, КВІТОЧКА, КВІТУСЯ;  СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 175, "name": "КИЛИНА", "half_official_vars": "КУЛИНА, ЯКИЛИНА", "etymology": "латинське", "etymology_comment": "aquilina—  орлина", "unofficial_vars": "КИЛИНКА, КИЛИНОНЬКА, КИЛИНОЧКА, КИЛЯ"}
+{"entry_id": 177, "name": "КЛАВДІЯ", "official_vars": null, "base_name": "КЛАВДІЙ", "unofficial_vars": "КЛАВДА, КЛАВА, КЛАВОНЬКА, КЛАВОЧКА, КЛАВУСЯ, КЛАВУСЕНЬКА, КЛАВУСЕЧКА, КЛАВУСЬКА, КЛАВУНЯ, КЛАВУНЕНЬКА, КЛАВУНЕЧКА, КЛАВУНЬКА, КЛАВЦЯ"}
+{"entry_id": 178, "name": "КЛАРА", "official_vars": "КЛАРИСА", "etymology": "латинське", "etymology_comment": "clara — ясна, світла", "unofficial_vars": "КЛАРОНЬКА, КЛАРОЧКА, КЛАРИНКА, КЛАРИНОНЬКА, КЛАРИНОЧКА, КЛАРУНЯ, КЛАРУСЯ, КЛАРУСЬКА, КЛАРУСЬКА, КЛАРЦЯ, КЛАРИСОНЬКА, КЛАРИСОЧКА, КЛАРИСКА; ЛАРА"}
+{"entry_id": 179, "name": "КЛЕМЕНТИНА", "etymology": "запозичене", "etymology_comment": "французьке Clémentine", "unofficial_vars": "КЛИМА, КЛИМЦЯ; ТІНА"}
+{"entry_id": 180, "name": "КЛЕОПАТРА", "etymology": "грецьке", "etymology_comment": "kleos — слава і pater (родовий відмінок pat-ros) — батько (буквально: дочка славного батька)"}
+{"entry_id": 181, "name": "КОНСТАНЦІЯ", "etymology": "латинське", "etymology_comment": "constantia — постійність, стійкість", "unofficial_vars": "КОСТЯ; СТАНЯ, СТАНА"}
+{"entry_id": 183, "name": "КУЛИНА", "official_vars": null, "equivalent_name": "КИЛИНА"}
+{"entry_id": 184, "name": "ЛАДА", "etymology": "слов'янське", "etymology_comment": "давньоруське лада — люба, мила, кохана. Лада — язичницька богиня шлюбу й кохання", "unofficial_vars": "ЛАДОНЬКА, ЛАДОЧКА, ЛАДУСЯ, ЛАДУСЕНЬКА, ЛАДУСЕЧКА, ЛАДУСЬКА"}
+{"entry_id": 185, "name": "ЛАРИСА", "etymology": "грецьке", "etymology_comment": "Lariș(a) — Лариса (назва міста) або від laros — чайка", "unofficial_vars": "ЛАРИСОНЬКА, ЛАРИСОЧКА, ЛАРИСКА, ЛАРИСЯ, ЛАРА, ЛАРОНЬКА, ЛАРОЧКА, ЛАРУНЯ, ЛАРУНЕНЬКА, ЛАРУНЕЧКА, ЛАРУНЬКА, ЛАРУСЯ, ЛАРУСЕНЬКА, ЛАРУСЕЧКА, ЛАРУСЬКА, ЛАРІКА, ЛОРА, ЛОРОНЬКА, ЛОРОЧКА, ЛОРУНЯ, ЛОРУНЕНЬКА, ЛОРУНЕЧКА, ЛОРУНЬКА, ЛОРУСЯ, ЛОРУСЕНЬКА, ЛОРУСЕЧКА, ЛОРУСЬКА, ЛЕСЯ, ЛЯЛЯ, ЛЯЛЕНЬКА, ЛЯЛЕЧКА, ЛЯЛЮНЯ, ЛЯЛЮСЯ, ЛЯЛЮСЬКА; РИСЯ, РИСЕНЬКА, РИСЕЧКА, РИСЮНЯ"}
+{"entry_id": 186, "name": "ЛАУРА", "etymology": "запозичене", "etymology_comment": "італійське Laura; від латинське laurea — лаврове дерево, лавровий вінок. Поширилося під впливом сонетів Ф. Петрарки, в яких оспівана Лаура", "unofficial_vars": "ЛАУРОНЬКА, ЛАУРОЧКА, ЛАРА"}
+{"entry_id": 187, "name": "ЛЕНІАНА", "official_vars": "ЛЕНІНА", "etymology": "нове", "etymology_comment": "утворене за прізвищем В. І. Леніна", "unofficial_vars": "ЛÉНА, ЛІНА; НІНА; ІНА"}
+{"entry_id": 188, "name": "ЛЕОКАДІЯ", "etymology": "запозичене", "etymology_comment": "німецьке Leokadia; від грецьке Leukadia — Левкадія — область на західному узбережжі Греції", "unofficial_vars": "ЛІКА, ЛЬОКА"}
+{"entry_id": 189, "name": "ЛЕОНАРДА", "official_vars": null, "base_name": "ЛЕОНАРД", "unofficial_vars": "ЛÉНА, ЛÉРА"}
+{"entry_id": 190, "name": "ЛЕОНІДА", "official_vars": null, "base_name": "ЛЕОНІД", "unofficial_vars": "ЛЕОНІДКА, ЛÉНА, ЛÉДА, ЛЬОНЯ; НІДА; ІДА"}
+{"entry_id": 191, "name": "ЛЕОНІЛА", "etymology": "латинське", "etymology_comment": "leo (родовий відмінок leonis) — лев", "unofficial_vars": "ЛЕОНА, ЛЕОНКА, ЛЕОНОНЬКА, ЛЕОНОЧКА; НІЛА"}
+{"entry_id": 192, "name": "ЛЕОНОРА", "official_vars": null, "equivalent_name": "ЕЛЕОНОРА"}
+{"entry_id": 193, "name": "ЛЕОНТИНА", "official_vars": null, "base_name": "ЛЕОНТ", "unofficial_vars": "ЛЕОНТИНКА, ЛЕОНТИНОНЬКА, ЛЕОНТИНОЧКА, ЛЕОНА, ЛЕОНКА, ЛЕОНОНЬКА, ЛЕОНОЧКА, ЛЕНА; ТІНА"}
+{"entry_id": 194, "name": "ЛЕОНТІЯ", "official_vars": null, "base_name": "ЛЕОНТІЙ", "unofficial_vars": "ЛЕОНА, ЛЕОНКА, ЛЕОНОНЬКА, ЛЕОНОЧКА, ЛЕНА"}
+{"entry_id": 195, "name": "ЛЕПЕСТИНА", "official_vars": null, "equivalent_name": "ЄПИСТИМА"}
+{"entry_id": 196, "name": "ЛЕСЯ", "etymology_comment": "скорочений варіант від ряду імен (Лариса, Олександра та ін.), який все частіше фіксують як документальне ім’я на честь української поетеси Лесі Українки", "unofficial_vars": "ЛЕСЕНЬКА, ЛЕСЕЧКА, ЛЕСЮНЯ, ЛЕСЮНЕНЬКА, ЛЕСЮНЕЧКА"}
+{"entry_id": 197, "name": "ЛЕЯ", "official_vars": null, "equivalent_name": "ЛІЯ"}
+{"entry_id": 198, "name": "ЛИКЕРА", "official_vars": "ЛИКЕРІЯ", "equivalent_name": "ГЛИКЕРІЯ"}
+{"entry_id": 199, "name": "ЛИСАВЕТА", "official_vars": null, "equivalent_name": "ЄЛИЗАВЕТА"}
+{"entry_id": 200, "name": "ЛІАНА", "etymology": "запозичене", "etymology_comment": "німецьке Liana, Liane; скорочений варіант Liliana, Juliane; можливо, від назви рослини — ліана", "unofficial_vars": "ЛІАНКА, ЛІНА, ЛІЯНА, ЛІЯНЯ; АНЯ"}
+{"entry_id": 201, "name": "ЛІДІЯ", "etymology": "грецьке", "etymology_comment": "Lydia — Лідія — область у Малій Азії", "unofficial_vars": "ЛІДА, ЛІДОНЬКА, ЛІДОЧКА, ЛІДУНЯ, ЛІДУНЬКА, ЛІДУСЬКА, ЛІДУСЯ, ЛІЛЯ"}
+{"entry_id": 202, "name": "ЛІЛІАНА", "official_vars": "ЛІЛІЯНА", "etymology": "запозичене", "etymology_comment": "німецьке, італійське, іспанське Liliana; можливо, від латинське lilium — лілія", "unofficial_vars": "ЛІЛІАНКА, ЛІЛІЯНКА, ЛІАНА, ЛІАНКА, ЛІНА, ЛІЛЯ, ЛІЛЯНКА, ЛЯНА, ЛЯНЯ; ЯНА; АНЯ"}
+{"entry_id": 203, "name": "ЛІЛІЯ", "etymology": "нове", "etymology_comment": "утворене за назвою квітки; латинське lilium —  лілія", "unofficial_vars": "ЛІЛЯ, ЛІЛЕНЬКА, ЛІЛЕЧКА, ЛІКА, ЛІЯ"}
+{"entry_id": 204, "name": "ЛІЛІЯНА", "official_vars": null, "equivalent_name": "ЛІЛІАНА"}
+{"entry_id": 205, "name": "ЛІНА", "etymology": "грецьке", "etymology_comment": "можливо, жіночий рід, жіноче (ім'я) до особового чоловічий рід, чоловіче ім'я імені  Linos; linos — скорботна пісня; міг стати цим документальним  іменем скорочений варіант від ряду імен — Аделіна, Ангеліна,  Капітоліна та под", "unofficial_vars": "ЛІНОНЬКА, ЛІНОЧКА, ЛІНУСЯ, ЛІНУ  СЕНЬКА, ЛІНУСЕЧКА, ЛІНУСЬКА"}
+{"entry_id": 206, "name": "ЛІЯ", "half_official_vars": "ЛЕЯ", "etymology": "давньоєврейське", "etymology_comment": "від ів’а — антилопа", "unofficial_vars": "ЛІЛЯ"}
+{"entry_id": 207, "name": "ЛУЇЗА", "etymology": "запозичене", "etymology_comment": "французьке Louise; німецьке Luise; скорочений варіант від чоловічий рід, чоловіче ім'я Ludwig", "unofficial_vars": "ЛУЇЗОНЬКА, ЛУЇЗОЧКА,ЛІЗА; ІЗА, ІЗЮНЯ, ІЗЮНКА, ІЗЮНЦЯ"}
+{"entry_id": 208, "name": "ЛУКЕРІЯ", "official_vars": "ЛУКЕРА, ГЛИКЕРІЯ", "half_official_vars": "ЛУКЕРЯ", "etymology": "грецьке", "unofficial_vars": "ЛУКЕРОНЬКА, ЛУКЕРОЧКА, ЛУКЕРКА, ЛУЦЯ, ЛУЦЬКА, ЛУША, ЛУШКА"}
+{"entry_id": 209, "name": "ЛУКІНА", "official_vars": null, "base_name": "ЛУКА", "unofficial_vars": "ЛУКІНКА, ЛУКІНОНЬКА, ЛУКІНОЧКА, ЛУЦЯ"}
+{"entry_id": 210, "name": "ЛУКІЯ", "official_vars": null, "base_name": "ЛУКІЙ", "unofficial_vars": "ЛУКІЙКА, ЛУКІЄНЬКА, ЛУКІЄЧКА, ЛУЦЯ, ЛУЦЬКА, ЛУША, ЛУШКА"}
+{"entry_id": 211, "name": "ЛУК'ЯНА", "official_vars": null, "base_name": "ЛУК'ЯН", "unofficial_vars": "ЛУК'ЯНКА, ЛУК'ЯНОНЬКА, ЛУК'ЯНОЧКА, ЛУЦЯ"}
+{"entry_id": 212, "name": "ЛЮБАВА", "etymology": "слов'янське", "etymology_comment": "від люб- (любов). ЛЮБАВОНЬКА, ЛЮБАВОЧКА, ЛЮБАВКА, ЛЮБА"}
+{"entry_id": 213, "name": "ЛЮБОВ", "half_official_vars": "ЛЮБИНА", "etymology": "слов'янське", "etymology_comment": "запозичене із старослов'янське, де з’явилося як калька з грецьке імені Charis; від charis — любов", "unofficial_vars": "ЛЮБА, ЛЮБОНЬКА, ЛЮБОЧКА, ЛЮБИНКА, ЛЮБИНОНЬКА, ЛЮБИНОЧКА, ЛЮБКА, ЛЮБЦЯ, ЛЮБУНЯ, ЛЮБУНЕНЬКА, ЛЮБУНЕЧКА, ЛЮБУСЯ, ЛЮБУСЕНЬКА, ЛЮБУСЕЧКА"}
+{"entry_id": 214, "name": "ЛЮБОМИЛА", "etymology": "слов'янське", "etymology_comment": "від люб- (любов) і мил- (милий)", "unofficial_vars": "ЛЮБА; МІЛА, МІЛЯ"}
+{"entry_id": 215, "name": "ЛЮБОМИРА", "official_vars": null, "base_name": "ЛЮБОМИР", "unofficial_vars": "ЛЮБА, МИРОСЯ, МИРА"}
+{"entry_id": 216, "name": "ЛЮДВІГА", "official_vars": null, "base_name": "ЛЮДВІГ", "unofficial_vars": "ЛЮДВІСЯ, ЛЮДВІСЬКА, ЛЮДА, ЛЮДЯ; ВІСЯ, ВІСЬКА"}
+{"entry_id": 217, "name": "ЛЮДМИЛА", "etymology": "слов'янське", "etymology_comment": "від люд- (люди) і мил- (милий)", "unofficial_vars": "ЛЮДА, ЛЮДОНЬКА, ЛЮДОЧКА, ЛЮДУНЯ, ЛЮДУСЯ, ЛЮДЯ, ЛЮСЯ, ЛЮСЕНЬКА, ЛЮСЕЧКА; МІЛА, МІЛОНЬКА, МІЛОЧКА, МІЛЯ, МІЛЬЦЯ"}
+{"entry_id": 218, "name": "ЛЮСЬЄНА", "etymology": "запозичене", "etymology_comment": "французьке Lucienne — жіночий рід, жіноче (ім'я) до чоловічий рід, чоловіче ім'я імені Lucien; від латинське Lucianus — син Луки, той, хто має відношення до Луки", "unofficial_vars": "ЛЮСЯ"}
+{"entry_id": 219, "name": "ЛЮЦІЯ", "etymology": "латинське", "etymology_comment": "особове ім'я Lucius; від lux (родовий відмінок lu-cis) — світло"}
+{"entry_id": 220, "name": "МАВРА", "official_vars": null, "base_name": "МАВР", "unofficial_vars": "МАВРОНЬКА, МАВРОЧКА, МАВРУНЯ, МАВРУСЯ"}
+{"entry_id": 221, "name": "МАГДАЛИНА", "official_vars": "МАГДАЛЕНА", "half_official_vars": "МАГДА", "etymology": "запозичене", "etymology_comment": "польське, німецьке Magdalena, Magda; грецьке Maria Magdalēne — Марія з Магдали. Магдалина спершу було прикладкою до імені Марія (Марія-Магдалина), а згодом стало вживатися як самостійне ім'я", "unofficial_vars": "МАГДОНЬКА, МАГДОЧКА, МАГДУНЯ, МАГДУСЯ, МАГДАЛЕНКА; ЛІНА"}
+{"entry_id": 222, "name": "МАЇНА", "etymology": "нове", "etymology_comment": "утворене від загального іменника май", "unofficial_vars": "МАЇНКА, МАЇНОНЬКА, МАЇНОЧКА, МАЯ"}
+{"entry_id": 223, "name": "МАЙЯ", "official_vars": "МАЇНА", "etymology_comment": "1) грецьке Maia, у грецькій міфології Майя — богиня весни, мати Гермеса", "unofficial_vars": "МАЙЄНЬКА, МАЙЄЧКА, МАЯ, МАЄНЬКА, МАЄЧКА, МАЙКА"}
+{"entry_id": 224, "name": "МАЛАНА", "official_vars": "МАЛАНКА, МАЛАШКА", "equivalent_name": "МЕЛАНІЯ"}
+{"entry_id": 225, "name": "МАЛЬВІНА", "official_vars": "МАЛЬВА", "etymology": "запозичене", "etymology_comment": "німецьке Malwine; давньоверхньонімецьке mahal — судові збори і давньоверхньонімецьке wini — подруга, приятелька; за іншим тлумаченням: д-германське mal — справедливість і win — друг (буквально: друг справедливості)", "unofficial_vars": "МАЛЬВІНКА, МАЛЬВІНОНЬКА, МАЛЬВІНОЧКА, МАЛЬВОЧКА, МАЛЬВУНЯ, МАЛЬВУСЯ, МАЛЯ"}
+{"entry_id": 226, "name": "МАРГАРИТА", "etymology": "латинське", "etymology_comment": "margarita — перлина", "unofficial_vars": "РИТА, РИТОНЬКА, РИТОЧКА, РИТУСЯ; ТУСЯ, ТУСЕНЬКА, ТУСЕЧКА"}
+{"entry_id": 227, "name": "МАРИНА", "etymology": "латинське", "etymology_comment": "marina — морська", "unofficial_vars": "МАРИНОНЬКА, МАРИНОЧКА, МАРИНКА, МАРИНЯ, МАРИНЕЙКА, МАРИСЯ, МАРИСЕНЬКА, МАРИСЕЧКА, МАРИСЬКА, МАРИСЕЙКА, МАРИСУНЯ"}
+{"entry_id": 228, "name": "МАРІАМНА", "etymology": "давньоєврейське", "etymology_comment": "ім’я Магуам; можливо, від māra — чинити опір, відмовлятися, заперечувати або від mārār — бути гірким чи від m-r-y-m — кохана, бажана", "unofficial_vars": "МАР’ЯНА, МАР’ЯНОНЬКА, МАР’ЯНОЧКА, МАР’ЯНКА, МАР’ЯСЯ"}
+{"entry_id": 229, "name": "МАРІАННА", "official_vars": null, "equivalent_name": "МАР’ЯНА"}
+{"entry_id": 230, "name": "МАРІЄТТА", "etymology": "запозичене", "etymology_comment": "італійське Marietta — пестливе до Maria — Марія"}
+{"entry_id": 231, "name": "МАРІОНІЛА", "etymology": "латинське", "etymology_comment": "mare — море; можливо, утворене від імені Марія", "unofficial_vars": "НІЛА"}
+{"entry_id": 232, "name": "МАРІЯ", "official_vars": "МАРІАМНА", "half_official_vars": "МАР’Я", "etymology": "давньоєврейське", "unofficial_vars": "МАРІЙКА, МАРІЄНЬКА, МАРІЄЧКА, МАРІЧКА, МАРУСЯ, МАРУСИНА, МАРУСИНКА, МАРУСЕНЬКА, МАРУСЕЧКА, МАРУСЕЙКА, МАНЯ, МАНЮНЯ, МАНЮСЯ, МАНЮТА, МАНЮТКА, МАНЮРА, МАША, МАШЕНЬКА, МАШЕЧКА, МАШУНЯ, МУРА, МУСЯ"}
+{"entry_id": 233, "name": "МАРКІЯНА", "official_vars": null, "base_name": "МАРКІЯН", "unofficial_vars": "МАРКІЯНОНЬКА, МАРКІЯНОЧКА"}
+{"entry_id": 234, "name": "МАРТА", "official_vars": null, "equivalent_name": "МАРФА", "unofficial_vars": "МАРТОНЬКА, МАРТОЧКА, МАРТУНЯ, МАРТУСЯ, МАРЦЯ, МАРТОХА, МАРТОШЕНЬКА, МАРТУХА; ТУНЯ, ТУСЯ, ТУСЕНЬКА, ТУСЕЧКА"}
+{"entry_id": 235, "name": "МАРФА", "etymology": "грецьке", "etymology_comment": "Martha; від арамейське mārta — пані, господиня", "unofficial_vars": "МАРФОНЬКА, МАРФОЧКА, МАРФУНЯ, МАРФУСЯ, МАРФУША"}
+{"entry_id": 236, "name": "МАР’Я", "official_vars": null, "equivalent_name": "МАРІЯ"}
+{"entry_id": 237, "name": "МАР’ЯНА", "official_vars": "МАРІАННА", "base_name": "МАР’ЯН, МАРІАН", "etymology_comment": "можливо, контамінація (схрещення) імен Марія і Анна", "unofficial_vars": "МАР’ЯНОНЬКА, МАР’ЯНОЧКА, МАР’ЯНКА, МАР’ЯСЯ"}
+{"entry_id": 238, "name": "МАТИЛЬДА", "etymology": "запозичене", "etymology_comment": "німецьке Mathilde; від давнього імені Mechthild; давньоверхньонімецьке macht — сила, міць і давньоверхньонімецьке hiltja — боротьба, бій", "unofficial_vars": "МАТИЛЬДОНЬКА, МАТИЛЬДОЧКА"}
+{"entry_id": 239, "name": "МЕЛАНІЯ", "official_vars": "МЕЛАНА", "half_official_vars": "МЕЛАНКА, МАЛАНКА, МАЛАНА, МЕЛАШКА, МАЛАШКА", "etymology": "грецьке", "etymology_comment": "melaina — чорна, темна", "unofficial_vars": "МЕЛАНОНЬКА, МЕЛАНОЙКА, МЕЛАНОЧКА, МАЛАНОНЬКА, МАЛАНОЙКА, МАЛАНОЧКА, МЕЛАНЯ, МЕЛАСЯ, МАЛАНЯ, МАЛАСЯ, МІЛА, МІЛЯ, МІЛЬЦЯ, МІЛОНЬКА, МІЛОЧКА, МЕЛЯ"}
+{"entry_id": 240, "name": "МЕЛЕТІЯ", "official_vars": null, "base_name": "МЕЛЕТІЙ", "unofficial_vars": "МІЛА, МІЛОНЬКА, МІЛОЧКА, МІЛЯ, МІЛЬЦЯ"}
+{"entry_id": 241, "name": "МЕЛІТИНА", "etymology": "грецьке", "etymology_comment": "melitine — медова. МІЛА, МІЛЯ"}
+{"entry_id": 242, "name": "МЕЧИСЛАВА", "official_vars": null, "base_name": "МЕЧИСЛАВ", "unofficial_vars": "СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 243, "name": "МИКОЛАЯ", "official_vars": null, "base_name": "МИКОЛА"}
+{"entry_id": 244, "name": "МИЛАНА", "official_vars": null, "base_name": "МИЛАН", "unofficial_vars": "МИЛАНОНЬКА, МИЛАНОЧКА, МИЛАНКА, МІЛА, МІЛЯ; ЛАНА, ЛАНОНЬКА, ЛАНОЧКА, ЛАНУСЯ"}
+{"entry_id": 245, "name": "МИЛИЦЯ", "etymology": "слов'янське", "etymology_comment": "сербське; болгарське Милица; від мил- (милий)", "unofficial_vars": "МІЛА, МІЛЯ"}
+{"entry_id": 246, "name": "МИЛОСЛАВА", "official_vars": null, "base_name": "МИЛОСЛАВ", "unofficial_vars": "МІЛА, МІЛЯ; СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 247, "name": "МИНОДОРА", "official_vars": null, "equivalent_name": "НИМИДОРА"}
+{"entry_id": 248, "name": "МИРОСЛАВА", "official_vars": null, "base_name": "МИРОСЛАВ", "unofficial_vars": "МИРОСЯ, МИРОСЕНЬКА, МИРОСЕЧКА, МИРОСЬКА, МИРА, МИРКА, МИРЦЯ; СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 249, "name": "МИТРОДОРА", "etymology": "грецьке", "etymology_comment": "жіночий рід, жіноче (ім'я) до чоловічий рід, чоловіче ім'я особового імені MétrodОros; від mētēr (родовий відмінок metros) — мати (матері) і dōron — дар, дарунок (буквально: дарунок матері)", "unofficial_vars": "ДОРА"}
+{"entry_id": 250, "name": "МИХАЙЛИНА", "official_vars": null, "base_name": "МИХАЙЛО", "unofficial_vars": "МИХАЙЛИНОНЬКА, МИХАЙЛИНОЧКА, МИХАЙЛИНКА, МИХАСЯ, МІЛЯ, МІСЯ; ЛІНА"}
+{"entry_id": 251, "name": "МЛАДА", "etymology": "слов'янське", "etymology_comment": "від млад (старослов'янське млад — молодий), болгарське Млада. МЛАДОНЬКА, МЛАДОЧКА, МЛАДКА; ЛАДА"}
+{"entry_id": 251, "name": "МОДЕСТА", "base_name": "МОДЕСТ"}
+{"entry_id": 252, "name": "МОКРИНА", "etymology": "латинське", "etymology_comment": "macer (родовий відмінок macri) — худий; можливо, з грецьке makros — довгий, далекий, високий", "unofficial_vars": "МОКРИНОНЬКА, МОКРИНОЧКА, МОКРИНКА, МОКРЕНЯ"}
+{"entry_id": 253, "name": "МОТРОНА", "half_official_vars": "МОТРЯ", "etymology": "латинське", "etymology_comment": "matrona — поважна заміжня жінка", "unofficial_vars": "МОТРОНОНЬКА, МОТРОНОЧКА, МОТРОНКА, МОТРЕНЬКА, МОТРЕЧКА, МОТРУНА, МОТРУНЯ, МОТРУНЕНЬКА, МОТРУНЕЧКА, МОТРОСЯ, МОТРОСЕНЬКА, МОТРОСЕЧКА, МОТРУСЯ, МОТРУСЕНЬКА, МОТРУШЕЧКА, МОТРУШЕНЬКА, МОТРУШЕЧКА, МОТЯ"}
+{"entry_id": 254, "name": "МСТИСЛАВА", "official_vars": null, "base_name": "МСТИСЛАВ", "unofficial_vars": "СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 255, "name": "МУЗА", "etymology": "грецьке", "etymology_comment": "Musa — Муза — богиня наук і мистецтв; переносне (о) натхненниця", "unofficial_vars": "МУЗОНЬКА, МУЗОЧКА, МУЗИНА"}
+{"entry_id": 256, "name": "НАДІЯ", "etymology": "українське", "etymology_comment": "переклад запозиченого із ст. сл. імені Надежда, що з’явилося як калька з грецьке імені Elpis; від elpis — надія", "unofficial_vars": "НАДІЄНЬКА, НАДІЄЧКА, НАДІЙКА, НАДІЙЦЯ, НАДЯ, НАДЮНЯ, НАДЮНЬКА, НАДЮСЯ, НАДЮСЕНЬКА, НАДЮСЕЧКА, НАДЮСЬКА, НАДЬКА, НАДЮША, НАДЮШЕНЬКА"}
+{"entry_id": 257, "name": "НАСТАСІЯ", "official_vars": "НАСТЯ", "equivalent_name": "АНАСТАСІЯ"}
+{"entry_id": 258, "name": "НАТАЛІЯ", "official_vars": "НАТАЛЯ, НАТАЛКА", "etymology": "латинське", "etymology_comment": "natalis — рідний", "unofficial_vars": "НАТАЛОНЬКА, НАТАЛОЧКА, НАТАЛЮНЯ, НАТАЛЮСЯ, НАТАЛЬКА, НАТАЛЬЦЯ, НАТАША, НАТАШКА, НАТА, НАТУСЯ; ТАЛА, ТАЛОНЬКА, ТАЛОЧКА, ТАЛЯ, ТАТА, ТУСЯ, ТУСЕНЬКА, ТУСЕЧКА"}
+{"entry_id": 259, "name": "НЕЛЛІ", "etymology": "запозичене", "etymology_comment": "англійське Nelly; пестливе до англійське Ellen, Hellen", "unofficial_vars": "НЕЛЯ"}
+{"entry_id": 260, "name": "НЕЛЯ", "etymology": "слов'янське, нове", "etymology_comment": "виникло від скорочений, скорочення ряду імен типу Неоніла, Неллі, Нінель", "unofficial_vars": "НЕЛЕНЬКА, НЕЛЕЧКА, НЕЛЮНЯ, НЕЛЮНЬКА, НЕЛЮСЯ, НЕЛЮСЕНЬКА, НЕЛЮСЕЧКА, НЕЛЮСЬКА, НЕЛЬЦЯ"}
+{"entry_id": 261, "name": "НЕОНІЛА", "etymology": "грецьке", "etymology_comment": "neos — новий, молодий", "unofficial_vars": "НІЛА, НІЛЯ, НІЛОНЬКА, НІЛОЧКА, НЕЛЯ, НИЛОНЬКА, НИЛОЧКА; ОНИЛЯ, ОНИЛОНЬКА, ОНИЛОЧКА, ОНИЛКА"}
+{"entry_id": 262, "name": "НИМИДОРА", "official_vars": "МИНОДОРА", "etymology": "грецьке", "etymology_comment": "mēn — місяць і dōron — дар, дарунок", "unofficial_vars": "НИМИДОРОНЬКА, НИМИДОРОЧКА, НИМИДОРКА, НОРА; ДОРА"}
+{"entry_id": 263, "name": "НІКА", "etymology": "грецьке", "etymology_comment": "nikē — перемога; в античній міфології Ніка — богиня перемоги"}
+{"entry_id": 264, "name": "НІЛА", "etymology": "грецьке", "etymology_comment": "жіночий рід, жіноче (ім'я) до НИЛ; можливо, виникло від скорочений, скорочення ряду імен типу Леоніла, Неоніла. НІЛОНЬКА, НІЛОЧКА, НІЛЯ"}
+{"entry_id": 265, "name": "НІМФОДОРА", "etymology": "грецьке", "etymology_comment": "nymphē — наречена, молода жінка і dōron — дар, дарунок", "unofficial_vars": "НІМФА; ДОРА"}
+{"entry_id": 266, "name": "НІНА", "etymology": "грузинське", "etymology_comment": "можливо від грецьке Ninos — Нін — ім’я легендарного засновника Ассирійської держави, чоловіка Семіраміди, і назва столиці Ассирії", "unofficial_vars": "НІНОНЬКА, НІНОЧКА, НІНУСЯ, НІНУЛЯ, НІНЦЯ"}
+{"entry_id": 267, "name": "НІНЕЛЬ", "etymology": "нове", "etymology_comment": "утворене від зворотного прочитання прізвища Л е н і н", "unofficial_vars": "НЕЛЯ"}
+{"entry_id": 268, "name": "НОННА", "etymology": "латинське", "etymology_comment": "nonus — дев’ятий", "unofficial_vars": "НОННОНЬКА, НОННОЧКА, НОННУСЯ, НОННУСЕНЬКА"}
+{"entry_id": 269, "name": "ОДАРИНА", "official_vars": "ОДАРКА", "equivalent_name": "ДАРИНА"}
+{"entry_id": 270, "name": "ОКСАНА", "half_official_vars": "ОКСЕНІЯ, КСЕНІЯ; АКСЕНІЯ", "etymology": "грецьке", "etymology_comment": "можливо, від xenia — гостинність або xenios (жіночий рід, жіноче (ім'я) xenia) — чужий, чужоземний", "unofficial_vars": "ОКСАНКА, ОКСАНОНЬКА, ОКСАНОЧКА, ОКСАНУСЯ; АКСЕНЯ, АКСЕНЬКА, АКСЕНОНЬКА, АКСЕНОЧКА, АКСИНКА, АКСИНЯ, АКСИНЬКА, АКСИНОНЬКА, АКСИНОЧКА, АКСЮТА, АКСЮТКА, АКСЮТОНЬКА, АКСЮТОЧКА; КСЕНЯ, КСЕНКА, КСЕНОНЬКА, КСЕНОЧКА, КСЕНЯ, КСЕНЬКА, КСЕНЕНЬКА, КСЕНЕЧКА, КСАНА, КСАНКА, КСАНОНЬКА, КСАНОЧКА, КСЮТА, КСЮТКА, КСЮТОНЬКА, КСЮТОЧКА; ОКСЕНА, ОКСЕНКА, ОКСЕНОНЬКА, ОКСЕНОЧКА, ОКСЕНЯ, ОКСЕНЬКА, ОКСЕНЕНЬКА, ОКСЕНЕЧКА, ОКСИНА, ОКСИНКА, ОКСИНЯ, ОКСИНЬКА, ОКСИНОНЬКА, ОКСИНОЧКА, ОКСЮТА, ОКСЮТКА, ОКСЮТОНЬКА, ОКСЮТОЧКА"}
+{"entry_id": 271, "name": "ОКТЯБРИНА", "etymology": "нове", "etymology_comment": "від російське назви місяця  октябрь (жовтень); утворене на честь революції 1917 року", "unofficial_vars": "ОКТЯБРИНОНЬКА, ОКТЯБРИНОЧКА, ОКТЯБРИНКА; ІНА;  РИНА"}
+{"entry_id": 272, "name": "ОЛЕКСАНДРА", "official_vars": "ОЛЕКСАНДРІНА", "half_official_vars": "ОЛЕСЯ", "base_name": "ОЛЕКСАНДР", "unofficial_vars": "ЛЕСЯ; САНЯ, САНЬКА, САША, САШЕНЬКА, САШУНЯ, САШУРА, САНДРА, САНДА; ШУРА, ШУРОНЬКА, ШУРОЧКА"}
+{"entry_id": 273, "name": "ОЛЕКСІЯ", "official_vars": null, "base_name": "ОЛЕКСІЙ"}
+{"entry_id": 274, "name": "ОЛЕНА", "etymology": "грецьке", "etymology_comment": "ім’я Heleně, Helena; можливо, від helē — сонячне світло або helenē — смолоскип", "unofficial_vars": "ОЛЕНКА, ОЛЕНОНЬКА, ОЛЕНОЧКА, ОЛЕНЕНЬКА, ОЛЕНУНЯ, ОЛЕНУСЯ, ОЛЕНЦЯ, ОЛЕНЦУНЯ, ОЛЕСЯ; ЛЄНА, ЛЕНОНЬКА, ЛЕНОЧКА, ЛЕНУНЯ, ЛЕНУСЯ; ЄЛЯ; ЛЯЛЯ, ЛЬОЛЯ"}
+{"entry_id": 275, "name": "ОЛЕСЯ", "etymology_comment": "скорочений варіант імені Олександра. Фіксується як документальне"}
+{"entry_id": 275, "name": "ОЛІМПІАДА", "official_vars": "ОЛІМПІЯ", "etymology": "грецьке", "etymology_comment": "Olympias (родовий відмінок Olympíados) — олімпійські ігри", "unofficial_vars": "ОЛІМПІКА; ЛІПА, ЛІПОНЬКА, ЛІПОЧКА, ЛІМПА, ЛІМПОНЬКА, ЛІМПОЧКА; ОЛЯ; ЛІЛЯ; АЛЯ, АДА"}
+{"entry_id": 276, "name": "ОЛЬГА", "etymology": "скандинавське", "etymology_comment": "староскандинавське Heilga; від heila — свята. Д.-рус. Ольга;", "unofficial_vars": "ОЛЯ, ОЛЕНЬКА, ОЛЕЧКА, ОЛЮНЯ, ОЛЮНЬКА, ОЛЮНЕНЬКА, ОЛЮНЕЧКА, ОЛЮНЬЦЯ, ОЛЮСЯ, ОЛЮСЬКА, ОЛЮСЕНЬКА, ОЛЮСЕЧКА, ОЛЮТА, ОЛЮТКА, ОЛЮТОНЬКА, ОЛЮТОЧКА; ЛЮСЯ, ЛЮСЕНЬКА, ЛЮСЕЧКА, ЛЕСЯ, ЛЬОЛЯ, ЛЬОЛЕНЬКА, ЛЬОЛЕЧКА"}
+{"entry_id": 277, "name": "ОЛЯНА", "official_vars": null, "equivalent_name": "УЛЯНА"}
+{"entry_id": 278, "name": "ОНИСІЯ", "official_vars": null, "half_official_vars": "ОНИСЬКА", "base_name": "ОНИСІЙ", "unofficial_vars": "ОНИСЯ,  ОНИСЕНЬКА, ОНИСЕЧКА, ОНИСІЙКА"}
+{"entry_id": 279, "name": "ОПИСТИНА", "official_vars": null, "equivalent_name": "ЄПИСТИМА"}
+{"entry_id": 280, "name": "ОРЕСТА", "official_vars": null, "base_name": "ОРЕСТ", "unofficial_vars": "ОРИСЯ, ОРИНЯ, ОРКА,  ОРОНЬКА, ОРОЧКА; РИСЯ, РИСЕНЬКА, РИСЕЧКА, РИСЮНЯ, РИСЬКА"}
+{"entry_id": 281, "name": "ОРИНА", "official_vars": "ОРИСЯ, ОРИНА", "etymology": "грецьке", "unofficial_vars": "ОРИНКА,  ОРИНОНЬКА, ОРИНОЧКА, ОРИНЯ, ОРИНЬКА, ОРИСЬКА,  ОРИСЕНЬКА, ОРИСЕЧКА, ОРИСОНЬКА, ОРИСОЧКА, ОРИШКА, ОРИШЕНЬКА, ОРИШЕЧКА, ОРКА, ОРОНЬКА, ОРОЧКА"}
+{"entry_id": 283, "name": "ПАВЛА", "official_vars": null, "base_name": "ПАВЛО", "unofficial_vars": "ПАВЛОНЬКА, ПАВЛОЧКА, ПАВА, ПАВУСЯ"}
+{"entry_id": 284, "name": "ПАВЛИНА", "official_vars": null, "base_name": "ПАВЛИН", "unofficial_vars": "ПАВЛИНКА, ПАВЛИНОНЬКА, ПАВЛИНОЧКА, ПАВЛА, ПАВЛУНЯ, ПАВЛУСЯ, ПАВЛЮСЯ, ПАВЛЮНЯ, ПАВА, ПАВУСЯ, ПАНЯ, ПАША, ПОЛЯ"}
+{"entry_id": 285, "name": "ПАЛАГА", "official_vars": "ПАЛАГНА, ПАЛАЖКА", "equivalent_name": "ПЕЛАГІЯ"}
+{"entry_id": 286, "name": "ПАЛЬМІРА", "etymology": "запозичене", "etymology_comment": "грецьке Palmyra (латинське Palmira) — назва міста в Сирії; можливо, від латинське palma — пальма", "unofficial_vars": "МІРА"}
+{"entry_id": 287, "name": "ПАМФІЛІЯ", "official_vars": null, "base_name": "ПАМФІЛ", "unofficial_vars": "ПАМФІЛОНЬКА, ПАМФІЛОЧКА, ПАМФІЛКА; ФІЛЯ, ФІЛЬЦЯ, ФІЛЮНЯ, ФІЛЮСЯ"}
+{"entry_id": 288, "name": "ПАРАСКОВІЯ", "official_vars": "ПАРАСКЕВА, ПАРАСКА", "etymology": "грецьке", "etymology_comment": "parasitesue — польське’ятниця", "unofficial_vars": "ПАРАСОНЬКА, ПАРАСОЧКА, ПАРАСЯ, ПАРАСИНКА, ПАРАСИЦЯ, ПАРАСУНЯ, ПАРАНА, ПАРАНКА, ПАРАНЯ, ПАРАНЬКА, ПАРАНЬЦЯ, ПАША"}
+{"entry_id": 289, "name": "ПАРФЕНІЯ", "official_vars": "ПАРФЕНА", "base_name": "ПАРФЕН", "unofficial_vars": "ПАРФЕНОНЬКА, ПАРФЕНОЧКА, ПАРФЕНКА, ПАРФУНЯ, ПАРФУСЯ; ФЕНЯ, ФЕНІЧКА"}
+{"entry_id": 290, "name": "ПЕЛАГІЯ", "official_vars": "ПЕЛАГЕЯ, ПАЛАЖКА, ПАЛАГНА", "half_official_vars": "ПАЛАГА, ПЕЛАГА", "etymology": "грецьке", "etymology_comment": "ім’я Pelagia; від pelagios — морський", "unofficial_vars": "ПАЛАГНОНЬКА, ПАЛАГНОЧКА, ПАЛАЖЕНЬКА, ПАЛАЖЕЧКА, ПАЛАЗЯ, ПАЗЯ, ПАЗИНА, ПАЗЬКА, ПЕЛЯСЯ, ПОЛЯ"}
+{"entry_id": 291, "name": "ПЕСТИНА", "official_vars": null, "equivalent_name": "ЄПИСТИМА"}
+{"entry_id": 292, "name": "ПЕТРИНА", "official_vars": "ПЕТРАНА", "base_name": "ПЕТРО", "unofficial_vars": "ПЕТРА, ПЕТРИНОНЬКА, ПЕТРИНОЧКА, ПЕТРАНОНЬКА, ПЕТРАНОЧКА, ПЕТРИНКА, ПЕТРАНКА"}
+{"entry_id": 293, "name": "ПЕТРУНЕЛЯ", "etymology": "латинське", "etymology_comment": "Petronilla — жіночий рід, жіноче (ім'я) ім'я від чоловічий рід, чоловіче ім'я Petrus — Петро", "unofficial_vars": "ПЕТРА, ПЕТРУНКА, ПЕТРУНЯ, ПЕТРУНЬКА, ПЕТРУНЦЯ, ПЕТРУНОНЬКА, ПЕТРУНОЧКА; НЕЛЯ"}
+{"entry_id": 294, "name": "ПИСТИНА", "official_vars": null, "equivalent_name": "ЄПИСТИМА"}
+{"entry_id": 295, "name": "ПІОНІЯ", "etymology": "нове", "etymology_comment": "від назви квітки півонія (російське пион)", "unofficial_vars": "ПІОНА, ПІОНОНЬКА, ПІОНОЧКА"}
+{"entry_id": 296, "name": "ПЛАТОНИДА", "official_vars": null, "base_name": "ПЛАТОН", "unofficial_vars": "ПЛАТОНЯ; ТОНЯ; НІДА"}
+{"entry_id": 297, "name": "ПОЛІКСЕНІЯ", "official_vars": "ПОЛІКСЕНА", "etymology": "грецьке", "etymology_comment": "особове ім'я Polyxene; від polyxene — дуже гостинна", "unofficial_vars": "ПОЛЯ; КСЕНЯ, КСЕНА"}
+{"entry_id": 298, "name": "ПОЛІНА", "etymology_comment": "скорочений варіант імені Аполлінарія, що став документальним; за іншим тлумаченням — запозичене з французьке: Pauline — жіночий рід, жіноче (ім'я) ім'я до чоловічий рід, чоловіче ім'я Поль, що відповідає іменам Павла, Павлина", "unofficial_vars": "ПОЛІНОНЬКА, ПОЛІНОЧКА, ПОЛІНКА, ПОЛЯ, ПОЛЕНЬКА, ПОЛЕЧКА, ПОЛЮСЯ; ЛІНА"}
+{"entry_id": 300, "name": "РАДА", "etymology": "слов'янське", "etymology_comment": "від рад- (радий, радість); болгарське Рада", "unofficial_vars": "РАДОНЬКА, РАДОЧКА, РАДКА; АДА, АДЯ"}
+{"entry_id": 301, "name": "РАДИСЛАВА", "official_vars": null, "base_name": "РАДИСЛАВ", "unofficial_vars": "РАДА, РАДОНЬКА, РАДОЧКА, РАДКА; СЛАВА, СЛАВКА, СЛАВІЯ"}
+{"entry_id": 302, "name": "РАЇНА", "etymology_comment": "можливо, фонетичний варіант імені Раїса", "unofficial_vars": "РАЇНОНЬКА, РАЇНОЧКА, РАЯ"}
+{"entry_id": 303, "name": "РАЇСА", "etymology": "грецьке", "etymology_comment": "можливо, від radia — легка", "unofficial_vars": "РАЇСОНЬКА, РАЇСОЧКА, РАЯ, РАЄНЬКА, РАЄЧКА, РАЮНЯ, РАЮСЯ, РАЙЦЯ"}
+{"entry_id": 305, "name": "РЕНАТА", "etymology": "латинське", "etymology_comment": "renatus (дієприкметник від основи дієслова renāscor — відроджуюся) — який відродився, вдруге народився", "unofficial_vars": "РЕНАТОНЬКА, РЕНАТОЧКА, РЕНАТКА, РÉНА, РÉНЯ; НАТА"}
+{"entry_id": 306, "name": "РІММА", "etymology": "слов'янське", "etymology_comment": "можливо, із болгарське Рима — жіночий рід, жіноче (ім'я) ім’я до чоловічий рід, чоловіче ім'я Римен — Роман; раніше було чоловічий рід, чоловіче ім'я іменем", "unofficial_vars": "РІМА, РІМОНЬКА, РІМОЧКА, РІНА"}
+{"entry_id": 307, "name": "РОГНІДА", "etymology": "запозичене", "etymology_comment": "староскандинавське Rag(n)heiðr; ragn — вирок долі і heiðr — честь Д.-рус. Рогнѣдь", "unofficial_vars": "РОНА, РОНКА, РОНЕЧКА, РОНОЧКА, РОНЯ, РОНЦЯ, РОНЮСЯ; НІДА"}
+{"entry_id": 308, "name": "РОЗА", "official_vars": "РОЗАЛІЯ", "half_official_vars": "РУЗАЛІЯ", "etymology": "латинське", "etymology_comment": "rosa — роза, троянда", "unofficial_vars": "РОЗОНЬКА, РОЗОЧКА, РУЗА, РУЗЯ, РУЗАНА, РУЗІНА, РУЗЬКА"}
+{"entry_id": 309, "name": "РОКСАНА", "etymology": "грецьке", "etymology_comment": "Roxane — ім’я дружини Олександра Македонського; із перське rusani — світло", "unofficial_vars": "РОКСАНОНЬКА, РОКСАНОЧКА, РОКСАНКА; КСАНА; САНА, САНЯ"}
+{"entry_id": 310, "name": "РОКСОЛАНА", "official_vars": "РОКСОЛЯНА", "etymology": "латинське", "etymology_comment": "середньовічнолатинське Roxolana (множина Roxolani) 1) роксоланка (представниця іраномовного скіфського племені); 2) (пізніше) русинка, українка (оскільки назву роксоланів перенесли на русинів). Таке ім’я (у другому значенні) дали Насті Лісовській з м. Рогатина, яка, опинившись у полоні, стала дружиною турецького султана і відігравала, значну роль у політичному житті Туреччини", "unofficial_vars": "РОКСОЛАНОНЬКА, РОКСОЛАНОЧКА, РОКСОЛАНОНЬКА, РОКСОЛАНОЧКА, РОСЯ, РОСЬКА, РОСЕНЬКА, РОСЕЧКА, РОСЮНЯ, РОКСА; ЛАНА, ЛАНОНЬКА, ЛАНОЧКА, ЛАНУСЯ, ЛАНУСЬКА, ЛАНУСЕНЬКА, ЛАНУСЕЧКА, ЛЯНА, ЛЯНКА, ЛЯНОНЬКА, ЛЯНОЧКА, ЛЯНУСЬКА, ЛЯНУСЯ, ЛЯНУСЕНЬКА, ЛЯНУСЕЧКА, ЛЯНЯ"}
+{"entry_id": 311, "name": "РОМАНІЯ", "official_vars": "РОМАНА", "base_name": "РОМАН", "unofficial_vars": "РОМАНКА, РОМАНОНЬКА, РОМАНОЧКА, РОМА, РОМКА, РОМІЯ, РОМУСЯ, РОМУСЬКА, РОМУЛЯ, РОМУЛЬКА"}
+{"entry_id": 313, "name": "РУЖЕНА", "etymology": "слов'янське", "etymology_comment": "від назви квітки ружа; чеське Ruzena; болгарське Ружана, Ружена. РУЖЕНОНЬКА, РУЖЕНОЧКА, РУ- ЖЕНКА, РУЖА"}
+{"entry_id": 314, "name": "РОЗАЛІЯ", "official_vars": null, "equivalent_name": "РОЗА"}
+{"entry_id": 314, "name": "РУЗАЛІЯ", "official_vars": null, "equivalent_name": "РОЗАЛІЯ"}
+{"entry_id": 315, "name": "РУСЛАНА", "official_vars": null, "base_name": "РУСЛАН", "unofficial_vars": "РУСЛАНОНЬКА, РУСЛАНОЧКА, РУСЛАНКА, РУСЛАНЦЯ, РУСЛАНЯ, РУСЯ; ЛАНА"}
+{"entry_id": 316, "name": "РУФ", "etymology": "давньоєврейське", "etymology_comment": "ім’я Rüt; можливо, від rɔ’üth — под- руга, дружба; за іншим тлумаченням — від латинське rufus — зо- лотаво-жовтий, рудий", "unofficial_vars": "РУФА, РУФКА"}
+{"entry_id": 317, "name": "РУФІНА", "etymology": "латинське", "etymology_comment": "римське особове ім’я Rufinus; від rufus — золотаво-жовтий, рудий", "unofficial_vars": "РУФІНКА, РУФА, РУФКА; ФІНА"}
+{"entry_id": 318, "name": "САВІНА", "official_vars": "САВІНА", "etymology": "латинське", "etymology_comment": "Sabina — сабінянка. САВІНОНЬКА, САВІНОЧКА, САВІНКА, САВІНОЧКА, САВІ- НОЧКА; ІНА"}
+{"entry_id": 319, "name": "САЛОМЕЯ", "official_vars": null, "equivalent_name": "СОЛОМІЯ"}
+{"entry_id": 320, "name": "САРА", "etymology": "давньоєврейське", "etymology_comment": "ім’я Sara; від sāra — знатна, княгиня", "unofficial_vars": "САРОНЬКА, САРОЧКА"}
+{"entry_id": 321, "name": "СВІТЛАНА", "official_vars": null, "base_name": "СВІТЛАН", "unofficial_vars": "СВІТЛАНОНЬКА, СВІТЛАНОЧКА, СВІТЛАНКА, СВІТЛАНКА, СВІТКА, СВЄТКА; ЛАНА, ЛАНОНЬКА, ЛАНОЧКА, ЛАНУСЯ"}
+{"entry_id": 322, "name": "СВІТОЗАРА", "official_vars": null, "base_name": "СВІТОЗАР", "unofficial_vars": "СВІТОЗАРОНЬКА, СВІТОЗАРОЧКА, СВІТОЗАРКА, СВІТКА; ЗАРА, ЗОРЯ"}
+{"entry_id": 323, "name": "СВОБОДА", "etymology": "нове", "etymology_comment": "від загального іменника свобода"}
+{"entry_id": 324, "name": "СВЯТОСЛАВА", "official_vars": null, "base_name": "СВЯТОСЛАВ", "unofficial_vars": "СВЯТКА, СВЯТУСЯ, СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 325, "name": "СЕВАСТЯНА", "official_vars": "СЕВАСТІАНА", "base_name": "СЕВАСТЯН, СЕВАСТІАН", "unofficial_vars": "СЕВА; ЯНА"}
+{"entry_id": 326, "name": "СЕВЕРИНА", "official_vars": null, "base_name": "СЕВЕРИН", "unofficial_vars": "СЕВЕРИНОНЬКА, СЕВЕРИНОЧКА, СЕВЕРИНКА, СЕВА; РИНА"}
+{"entry_id": 327, "name": "СЕКЛЕТА", "half_official_vars": "СЕКЛЕТИНА", "etymology": "грецьке", "etymology_comment": "synklétikos — член державної ради", "unofficial_vars": "СЕКЛЕТОНЬКА, СЕКЛЕТОЧКА, СЕКЛЕТКА, СЕКЛЕТИНКА"}
+{"entry_id": 328, "name": "СЕМЕНА", "official_vars": null, "base_name": "СЕМЕН", "unofficial_vars": "СЕМЕНОНЬКА, СЕМЕНОЧКА, СЕМЕНКА, СІМА"}
+{"entry_id": 329, "name": "СЕРАФИМА", "official_vars": null, "base_name": "СЕРАФИМ", "unofficial_vars": "СЕРАФИМОНЬКА, СЕРАФИМОЧКА, СЕРАФИМКА, СІМА, СІМОНЬКА, СІМОЧКА; ФІМА, ФІМОНЬКА, ФІМОЧКА"}
+{"entry_id": 330, "name": "СІЛЬВІЯ", "official_vars": "СІЛЬВА", "etymology": "латинське", "etymology_comment": "silva — ліс", "unofficial_vars": "СІЛЬВОНЬКА, СІЛЬВОЧКА, СІЛЯ; ІЛЯ; ЛІЯ, ЛІКА"}
+{"entry_id": 331, "name": "СНІЖАНА", "etymology": "нове", "etymology_comment": "від слова сніг; можливо, з болгарське — Снежана, Снежина", "unofficial_vars": "СНІЖАНОНЬКА, СНІЖАНОЧКА, СНІЖАНКА; ЖАНА, ЖАНОНЬКА, ЖАНОЧКА, ЖАНУСЯ"}
+{"entry_id": 332, "name": "СОЛОМІЯ", "official_vars": "САЛОМЕЯ", "half_official_vars": "СОЛОХА", "etymology": "давньоєврейське", "etymology_comment": "šalōm — мир", "unofficial_vars": "СОЛОМІЙКА, СОЛОМІЄНЬКА, СОЛОМІЄЧКА, СОЛОШКА, СОЛЯ, СОЛЮНЯ, СОЛЬКА; ЛЮНЯ; МІЯ; ІЯ"}
+{"entry_id": 334, "name": "СОФІЯ", "etymology": "грецьке", "etymology_comment": "sophia — мудрість", "unofficial_vars": "СОФІЙКА, СОФІЄЧКА, СОФА, СОНЯ, СОНЕНЬКА, СОНЕЧКА; ЗОНЯ, ЗОНЕНЬКА, ЗОНЕЧКА, ЗОНЬКА, ЗОСЯ, ЗОСЕНЬКА, ЗОСЕЧКА, ЗОСЬКА"}
+{"entry_id": 335, "name": "СТАНІСЛАВА", "official_vars": null, "base_name": "СТАНІСЛАВ", "unofficial_vars": "СТАСЯ, СТАСЕНЬКА, СТАСЕЧКА, СТАХА, СТАШКА, СТАНА, СТАНЯ; СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 336, "name": "СТЕЛЛА", "etymology": "латинське", "etymology_comment": "stella — зірка", "unofficial_vars": "СТЕЛЛОНЬКА, СТЕЛЛОЧКА; ЇЛА"}
+{"entry_id": 337, "name": "СТЕПАНИДА", "official_vars": "СТЕФАНИДА, СТЕПАНІЯ, СТЕФАНІЯ, СТЕФА, СТЕПА, СТЕХА", "etymology": "грецьке", "etymology_comment": "stephanos — вінок", "unofficial_vars": "СТЕПАНИДОНЬКА, СТЕПАНИДОЧКА, СТЕПАНИДКА, СТЕПОНЬКА, СТЕПОЧКА, СТЕПКА, СТЕПЦЯ, СТЕФАНИДОНЬКА, СТЕФАНИДОЧКА, СТЕФОНЬКА, СТЕФОЧКА, СТЕФКА, СТЕФЦЯ, СТЕФУНЯ, СТЕФУСЯ, СТЕФУНЦЯ, СТЕНЯ, СТЕНА, СТЕСЯ, СТЕША"}
+{"entry_id": 338, "name": "СУСАННА", "etymology": "давньоєврейське", "etymology_comment": "ім’я Sūsaṃṇa — водяна (біла) лілія", "unofficial_vars": "СУСАННОНЬКА, СУСАННОЧКА, СУСАНКА, СУЗЯ; ЗУЗАНА, ЗУЗАНКА, ЗУЗКА, ЗУЗЬКА"}
+{"entry_id": 339, "name": "ТАЇСІЯ", "official_vars": "ТАЇСА", "etymology": "грецьке", "etymology_comment": "можливо, від ta Isios — яка належить Ісіді — єгипетській богині", "unofficial_vars": "ТАЇСОНЬКА, ТАЇСОЧКА, ТАСЯ, ТАСЕНЬКА, ТАСЕЧКА, ТАЯ, ТАЄНЬКА, ТАЄЧКА; АСЯ"}
+{"entry_id": 340, "name": "ТАМАРА", "etymology": "давньоєврейське", "etymology_comment": "ім’я Таmār; від tāmār — фінікова пальма; фігове дерево, смоківниця", "unofficial_vars": "ТАМАРОНЬКА, ТАМАРОЧКА, ТАМАРЦЯ, ТАМА, ТАМОНЬКА, ТАМОЧКА, ТАМУНЯ, ТАМУЛЯ, ТАМУСЯ, ТОМА, ТОМОНЬКА, ТОМОЧКА, ТОМКА, ТОМУНЯ, ТОМУЛЯ, ТОМУСЯ"}
+{"entry_id": 341, "name": "ТАМІЛА", "official_vars": "ТОМІЛА", "etymology": "слов'янське", "etymology_comment": "від давньоруське томити — мучити, терзати. ТАМІЛОНЬКА, ТАМІЛОЧКА, ТАМА... ТОМІЛОНЬКА, ТОМІЛОЧКА, ТОМА; МІЛА"}
+{"entry_id": 342, "name": "ТЕКЛЯ", "official_vars": "ВЕКЛА", "half_official_vars": "ФЕКЛА", "etymology": "грецьке", "etymology_comment": "ім’я Thekla; theos — Бог і kleos — слава", "unofficial_vars": "ТЕКЛА, ТЕКЛОНЬКА, ТЕКЛОЧКА, ТЕКЛУНЯ, ТЕКЛЮНЯ, ТЕКЛЮСЯ, ТЕЦЯ; ВЕКЛОНЬКА, ВЕКЛОЧКА, ВЕКЛУНЯ, ВЕКЛУСЯ, ВЕКЛЮНЯ, ВЕКЛЮСЯ; ФЕКЛУНЯ, ФЕКЛУСЯ, ФЕКЛЮНЯ, ФЕКЛЮСЯ, ФЕНЯ, ФЕНІЧКА"}
+{"entry_id": 345, "name": "ТЕТЯНА", "etymology": "латинське", "etymology_comment": "Tatius — ім’я сабінського царя; можливо, від грецьке tatto — установлюю, призначаю", "unofficial_vars": "ТЕТЯНОНЬКА, ТЕТЯНОЧКА, ТЕТЯНКА, ТАНЯ, ТАНЕЧКА, ТАНЮСЯ, ТАНЮША, ТАНЮШКА, ТАТА, ТАСЯ, ТАЦЯ, ТАЦЕНЬКА, ТАЦЕЧКА, ТАЦУНЯ"}
+{"entry_id": 347, "name": "УЛИТА", "etymology": "латинське", "etymology_comment": "Julitta — пестливе до Julia — Юлія", "unofficial_vars": "УЛИТОНЬКА, УЛИТОЧКА, УЛИТКА"}
+{"entry_id": 348, "name": "УЛЯНА", "official_vars": "ОЛЯНА", "base_name": "УЛЯН", "unofficial_vars": "УЛЯНОНЬКА,  УЛЯНОЧКА, УЛЯНКА, УЛЯ, УЛЕНЬКА, УЛЕЧКА, УЛЯСЯ,    УЛЬКА; ОЛЯНОНЬКА, ОЛЯНОЧКА, ОЛЯНКА; ЛЯНА, ЛЯНА, ЛЯНОНЬКА, ЛЯНОЧКА, ЛЯНКА, ЛЯНУСЯ, ЛЯНУСЕНЬКА, ЛЯНУСЕЧКА, ЛЯНУСЬКА"}
+{"entry_id": 349, "name": "УСТИНА", "official_vars": "ЮСТИНА", "half_official_vars": "УСТЯ, ВУСТЯ", "base_name": "УСТИН, ЮСТИН", "unofficial_vars": "УСТИНОНЬКА, УСТИНОЧКА, УСТИНКА, УСТЕЧКА, УСТЕНЬКА; ВУТАНЬКА; ЮСТЯ, ЮСТИНОНЬКА, ЮСТИНОЧКА, ЮСТИНКА"}
+{"entry_id": 350, "name": "ФАЇНА", "etymology": "грецьке", "etymology_comment": "phaeine — осяйна", "unofficial_vars": "ФАЇНОНЬКА, ФАЇНОЧКА, ФАЇНА, ФАЯ, ФАЛЯ, ФАНЯ, ФАСЯ; ІНА"}
+{"entry_id": 351, "name": "ФЕВРОНІЯ", "half_official_vars": "ФЕВРОСІЯ, ХІВРЯ", "etymology": "грецьке", "etymology_comment": "ім’я Phebrō-nia; можливо, пов’язане з латинське іменем Faber (від faber — майстер; творець)", "unofficial_vars": "ФЕНЯ, ФЕНІЧКА; ХІВРУСЯ; ХІВРУНЯ"}
+{"entry_id": 352, "name": "ФЕДОРА", "official_vars": "ТОДОРА", "base_name": "ФЕДІР", "unofficial_vars": "ФЕДОРОНЬКА, ФЕДОРОЧКА, ФЕДОРКА, ТОДОРОНЬКА, ТОДОРОЧКА, ТОДОРКА; ДОРА"}
+{"entry_id": 354, "name": "ФЕЛІЦАТА", "etymology": "латинське", "etymology_comment": "felicitas (родовий відмінок felicitatis) — щастя"}
+{"entry_id": 355, "name": "ФЕОДОСІЯ", "official_vars": "ФЕДОСІЯ, ФЕДОСЯ, ФЕДОСКА, ФЕДОСЬКА, ТОДОСЯ, ТОДОСКА, ТОДОСЬКА", "half_official_vars": "ТЕОДОЗІЯ, ТЕОДОЗЯ", "base_name": "ФЕОДОСІЙ", "unofficial_vars": "ФЕНЯ, ФЕНІЧКА, ФЕСЯ, ФЕСУНА, ФЕСЬКА; ДОЗЯ, ДОЗЬКА"}
+{"entry_id": 356, "name": "ФЕОДОТІЯ", "etymology": "грецьке", "etymology_comment": "theos — Бог і dotes — подавець (буквально: Богом дана). ФЕСЯ, ФЕНЯ"}
+{"entry_id": 357, "name": "ФЕОКТИСТА", "official_vars": "ТЕОКТИСТА", "base_name": "ФЕОКТИСТ, ТЕОКТИСТ", "unofficial_vars": "ФЕНЯ, ФЕНІЧКА, ФЕЯ"}
+{"entry_id": 358, "name": "ФЕОНА", "official_vars": "ФЕОНІЯ", "etymology": "грецьке", "etymology_comment": "theos — Бог і noos — думка, розум", "unofficial_vars": "ФЕОНКА, ФЕНЯ, ФЕНІЧКА, ФЕЯ"}
+{"entry_id": 359, "name": "ФЕОФАНІЯ", "official_vars": null, "base_name": "ФЕОФАН, ТЕОФАН", "unofficial_vars": "ФЕОФАНЯ, ФАНЯ"}
+{"entry_id": 360, "name": "ФЕОФІЛА", "official_vars": "ТЕОФІЛА", "half_official_vars": "ТЕОФІЛІЯ", "base_name": "ФЕОФІЛ, ТЕОФІЛ", "unofficial_vars": "ФІЛЯ, ФІЛЬЦЯ, ФІЛЮНЯ, ФІЛЮСЯ"}
+{"entry_id": 361, "name": "ФІЛАРЕТА", "official_vars": null, "base_name": "ФІЛАРЕТ", "unofficial_vars": "ФІЛА; ЛАРА, ЛАРЯ"}
+{"entry_id": 362, "name": "ФЛОРЕНТИНА", "official_vars": null, "base_name": "ФЛОРЕНТИН", "unofficial_vars": "ФЛОРА, ФЛОРОНЬКА, ФЛОРОЧКА; ЛОРА; РÉНА; ТІНА"}
+{"entry_id": 363, "name": "ФОТИНІЯ", "official_vars": "ФОТИНА, ХОТИНА", "etymology": "грецьке", "etymology_comment": "phōs (родовий відмінок photos) — світло", "unofficial_vars": "ФОТИНОНЬКА, ФОТИНОЧКА, ФОТИНКА; ХОТИНОНЬКА, ХОТИНОЧКА, ХОТИНКА; ФОТЯ; ХОТЯ; ТІНА"}
+{"entry_id": 364, "name": "ФРОСИНА", "official_vars": null, "equivalent_name": "ЄФРОСИНІЯ"}
+{"entry_id": 365, "name": "ХАРИТА", "official_vars": "ХАРИТИНА", "half_official_vars": "ХАРИТЯ", "etymology": "грецьке", "etymology_comment": "charis (родовий відмінок charitos) — витонченість, краса, привабливість", "unofficial_vars": "ХАРИТИНОНЬКА, ХАРИТИНОЧКА, ХАРИТИНКА; ТІНА"}
+{"entry_id": 366, "name": "ХИМА", "official_vars": "ХИМКА", "equivalent_name": "ЮХИМІЯ"}
+{"entry_id": 367, "name": "ХІВРЯ", "official_vars": null, "equivalent_name": "ФЕВРОНІЯ"}
+{"entry_id": 368, "name": "ХРИСА", "official_vars": "ХРИСІЯ", "etymology": "грецьке", "etymology_comment": "chryse — золота", "unofficial_vars": "ХРИСЯ"}
+{"entry_id": 369, "name": "ХРИСТИНА", "official_vars": "ХРИСТЯ", "etymology": "грецьке", "etymology_comment": "ім’я Christine; від christianos — християнин", "unofficial_vars": "ХРИСТИНОНЬКА, ХРИСТИНОЧКА, ХРИСТИНКА, ХРИСТУНЯ, ХРИСТУНЬКА, ХРИСТУСЯ, ХРИСТЕЧКА; ТІНА"}
+{"entry_id": 370, "name": "ЦЕЦІЛІЯ", "etymology": "латинське", "etymology_comment": "ім’я Caecilia; від ceacus — сліпий", "unofficial_vars": "ЦІЛЯ, ЦЕЛЯ, ЦЕСЯ"}
+{"entry_id": 371, "name": "ЧЕСЛАВА", "official_vars": null, "base_name": "ЧЕСЛАВ", "unofficial_vars": "ЧЕСЯ; СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 372, "name": "ЮГИНА", "official_vars": null, "equivalent_name": "ЄВГЕНІЯ"}
+{"entry_id": 373, "name": "ЮЗЕФА", "official_vars": null, "base_name": "ЮЗЕФ", "unofficial_vars": "ЮЗЯ, ЮЗУНЯ, ЮЗЮНЯ, ЮЗЬКА, ЮЗКА"}
+{"entry_id": 374, "name": "ЮЛІЯ", "official_vars": "ЮЛІНА", "base_name": "ЮЛІЙ", "unofficial_vars": "ЮЛІНКА, ЮЛАСЯ, ЮЛА, ЮЛЯ, ЮЛЕНЬКА, ЮЛЕЧКА, ЮЛЬЦЯ"}
+{"entry_id": 375, "name": "ЮНІЯ", "official_vars": null, "base_name": "ЮНІЙ", "unofficial_vars": "ЮНА, ЮНКА, ЮНЯ"}
+{"entry_id": 376, "name": "ЮСТИНА", "official_vars": null, "equivalent_name": "УСТИНА"}
+{"entry_id": 377, "name": "ЮХИМІЯ", "official_vars": "ЮХИМА, ЮХИМІНА", "half_official_vars": "ЄФІМІЯ, ХІМА, ХІМКА", "base_name": "ЮХИМ", "unofficial_vars": "ЮХИМОНЬКА, ЮХИМОЧКА, ЮХИМІНКА; ХІМОНЬКА, ХІМОЧКА, ХІМУСЯ"}
+{"entry_id": 378, "name": "ЯВДОХА", "official_vars": null, "equivalent_name": "ЄВДОКІЯ"}
+{"entry_id": 379, "name": "ЯДВІГА", "etymology": "запозичене", "etymology_comment": "р. Jadwiga; давньоверхньонімецьке ім’я Hadwig; давньоверхньонімецьке hadu — боротьба і давньоверхньонімецьке wig — битва", "unofficial_vars": "ЯДЗЯ, ЯДВІСЯ, ЯГУСЯ; ВІСЯ, ВІСЬКА"}
+{"entry_id": 380, "name": "ЯКИЛИНА", "official_vars": null, "equivalent_name": "КИЛИНА"}
+{"entry_id": 383, "name": "ЯРИНА", "official_vars": null, "equivalent_name": "ІРИНА"}
+{"entry_id": 353, "name": "ФЕДОСІЯ", "official_vars": "ФЕДОСЯ, ФЕДОСКА, ФЕДОСЬКА", "equivalent_name": "ФЕОДОСІЯ"}
+{"entry_id": 381, "name": "ЯНА", "base_name": "ЯН", "unofficial_vars": "ЯНОНЬКА, ЯНОЧКА, ЯНУСЯ, ЯНІНКА, ЯНКА, ЯНЦЯ"}
+{"entry_id": 382, "name": "ЯНІНА", "base_name": "ЯН", "unofficial_vars": "ЯНІНКА, ЯНА, ЯНОНЬКА, ЯНОЧКА, ЯНУСЯ, ЯНКА, ЯНЦЯ"}
+{"entry_id": 384, "name": "ЯРОСЛАВА", "base_name": "ЯРОСЛАВ", "unofficial_vars": "ЯСЯ, ЯСОНЬКА, ЯСОЧКА, ЯСЮНЯ, ЯСЬКА, СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 385, "name": "ФЕКЛА", "equivalent_name": "ТЕКЛЯ"}
+{"entry_id": 386, "name": "ФЕЛІКСА", "base_name": "ФЕЛІКС", "unofficial_vars": "ФЕЛЯ, ЕЛА, ЕЛЯ"}
+{"entry_id": 387, "name": "ФЕОДОСІЯ", "official_vars": "ФЕДОСІЯ, ФЕДОСЯ, ФЕДОСКА, ФЕДОСЬКА, ТОДОСЯ, ТОДОСКА, ТОДОСЬКА", "half_official_vars": "ТЕОДОЗІЯ, ТЕОДОЗЯ", "base_name": "ФЕОДОСІЙ", "unofficial_vars": "ФЕНЯ, ФЕНІЧКА, ФЕСЯ, ФЕСУНА, ФЕСЬКА, ДОЗЯ, ДОЗЬКА"}
+{"entry_id": 388, "name": "ТОДОРА", "equivalent_name": "ФЕДОРА"}
+{"entry_id": 389, "name": "ТЕОКТИСТА", "equivalent_name": "ФЕОКТИСТА"}
+{"entry_id": 390, "name": "ТЕОФІЛА", "official_vars": "ТЕОФІЛІЯ", "equivalent_name": "ФЕОФІЛА"}
+{"entry_id": 391, "name": "ТЕРЕЗА", "official_vars": "ТЕРЕЗІЯ", "etymology": "грецьке", "etymology_comment": "можливо, від térēsis — охорона, захист або від thēraō — полю, ловлю; прагну, домагаюся", "unofficial_vars": "ТЕРЕЗОНЬКА, ТЕРЕЗОЧКА, ТЕРЕЗКА, ТЕРЕСЯ, ТЕРЕНЯ, ТЕНЯ"}
+{"entry_id": 6, "name": "АГАФОНИКА", "base_name": "АГАФОНИК", "unofficial_vars": "АГА, НІКА"}
+{"entry_id": 6, "name": "АГЛАЇДА", "etymology": "грецьке", "etymology_comment": "aglaos — чудовий, прекрасний і eentry_idos — вигляд, зовнішність", "unofficial_vars": "АГЛАЯ, АГА, АГУЛЯ, ГУЛЯ"}
+{"entry_id": 6, "name": "АГЛАЯ", "etymology": "грецьке", "etymology_comment": "aglaos — чудовий, прекрасний", "unofficial_vars": "АГА, АГУЛЯ, ГУЛЯ"}
+{"entry_id": 17, "name": "АЇДА", "etymology": "запозичене", "etymology_comment": "поширилося під впливом однойменної опери Джузеппе Верді. Можливо, від арабське 'aentry_ida — вигода, винагорода", "unofficial_vars": "АЇДОНЬКА, АЇДОЧКА, АДА, АДЯ, АЯ, ЇДА"}
+{"entry_id": 67, "name": "ВІЛЕНА", "base_name": "ВІЛЕН", "unofficial_vars": "ВІЛЯ, ЛЕНА"}
+{"entry_id": 67, "name": "ВІЛЕНІНА", "base_name": "ВІЛЕНІН", "unofficial_vars": "ВІЛЯ, ЛЕНА, НІНА"}
+{"entry_id": 67, "name": "ВІЛІНА", "etymology": "нове", "etymology_comment": "скорочений, скорочення від Володимир Ілліч Ленін", "unofficial_vars": "ВІЛЯ, ЛІНА, ІНА"}
+{"entry_id": 67, "name": "ВІОЛА", "etymology": "запозичене", "etymology_comment": "англійське Viola; від латинське viola — фіалка", "unofficial_vars": "ВІОЛОНЬКА, ВІОЛОЧКА, ВІОЛКА, ОЛЯ"}
+{"entry_id": 98, "name": "ДАРІЯ", "official_vars": "ДАР'Я", "base_name": "ДАРІЙ", "equivalent_name": "ДАРИНА"}
+{"entry_id": 98, "name": "ДЕНИСІЯ", "base_name": "ДЕНИС", "unofficial_vars": "ДЕНИСЯ, ДЕНИСОНЬКА, ДЕНИСОЧКА, ДЕНИСЬКА"}
+{"entry_id": 98, "name": "ДЗВЕНИМИРА", "etymology": "слов'янське", "etymology_comment": "від дзвен- (дзвеніти) і мир- (мирний, мир)", "unofficial_vars": "ДЗВІНКА, ДЗВІНОНЬКА, ДЗВІНОЧКА, ДЗВІНУСЯ, МИРА, МИРКА, МИРЦЯ, МИРОСЯ, МИРОСЕНЬКА, МИРОСЕЧКА, МИРОСЬКА"}
+{"entry_id": 144, "name": "ЗОРЯНА", "base_name": "ЗОРЯН", "unofficial_vars": "ЗОРЯНКА, ЗОРЯНОНЬКА, ЗОРЯНОЧКА, ЗОРЯ, ЗІРКА, ЗІРОНЬКА, ЗІРОЧКА, ЗІРУСЯ"}
+{"entry_id": 151, "name": "ІЛАРІЯ", "base_name": "ІЛАРІЙ", "unofficial_vars": "ЛАРА"}
+{"entry_id": 151, "name": "ІЛОНА", "official_vars": "ОЛЕНА", "etymology": "запозичене", "etymology_comment": "угорське Ilona", "unofficial_vars": "ІЛОНОНЬКА, ІЛОНОЧКА, ІЛОНКА"}
+{"entry_id": 176, "name": "КИРІАКІЯ", "base_name": "КИРІАК", "unofficial_vars": "КІРА"}
+{"entry_id": 176, "name": "КІРА", "base_name": "КИР", "unofficial_vars": "КІРОНЬКА, КІРОЧКА, КІРУСЯ, КІРУСЕНЬКА, КІРУСЕЧКА, КІРУСЬКА"}
+{"entry_id": 182, "name": "КОРНЕЛІЯ", "base_name": "КОРНЕЛІЙ", "unofficial_vars": "КОРНЕЛЯ, НЕЛЯ"}
+{"entry_id": 182, "name": "КСЕНІЯ", "equivalent_name": "ОКСАНА"}
+{"entry_id": 299, "name": "ПУЛЬХЕРІЯ", "etymology": "латинське", "etymology_comment": "pulchra — гарна, вродлива", "unofficial_vars": "ПУЛЬХЕРІЯ"}
+{"entry_id": 304, "name": "РАЙМОНДА", "base_name": "РАЙМОНД", "unofficial_vars": "РАЯ"}
+{"entry_id": 304, "name": "РАФАЛІНА", "etymology_comment": "утворене від чоловічий рід, чоловіче ім'я імені РАФАЇЛ", "unofficial_vars": "РАФАЛЯ, РАФЕЛЯ, ФАЛЯ, ФЕЛЯ"}
+{"entry_id": 304, "name": "РАХІЛЬ", "official_vars": "РАХІЛЯ", "etymology": "давньоєврейське", "etymology_comment": "ім'я Rāchēl; від rāchēl — вівця", "unofficial_vars": "РАЯ, ЛІЛЯ, ІЛЯ"}
+{"entry_id": 304, "name": "РЕГІНА", "etymology": "латинське", "etymology_comment": "regina — цариця", "unofficial_vars": "РЕГІНОНЬКА, РЕГІНОЧКА, РЕГІНКА, РÉНЯ, РІНА, ІНА"}
+{"entry_id": 312, "name": "РОСТИСЛАВА", "base_name": "РОСТИСЛАВ", "unofficial_vars": "РОСЯ, РОСЬКА, РОСЕНЬКА, РОСЕЧКА, РОСЮНЯ, СЛАВА, СЛАВКА, СЛАВЦЯ"}
+{"entry_id": 343, "name": "ТЕОДОЗІЯ", "official_vars": "ТЕОДОЗЯ", "equivalent_name": "ФЕОДОСІЯ"}
+{"entry_id": 343, "name": "ТЕОДОРА", "base_name": "ТЕОДОР", "unofficial_vars": "ТЕОДОРОНЬКА, ТЕОДОРОЧКА, ТЕОДОРКА, ДОРА"}
+{"entry_id": 333, "name": "СОЛОМОНИДА", "base_name": "СОЛОМОН", "unofficial_vars": "СОЛЯ, СОЛЮНЯ, НІДА, ІДА"}
+{"entry_id": 299, "name": "ЄВПРАКСІЯ", "half_official_vars": "ЄВПРАКСЯ, ПРАКСЯ", "etymology": "грецьке", "etymology_comment": "eupraxia — щастя, благоденство", "unofficial_vars": "ЄВА, ПАРАСЯ"}
+{"entry_id": 299, "name": "ДОМІНІКА", "official_vars": "ДОМНІКІЯ", "etymology": "латинське", "etymology_comment": "dominica — панська, господня", "unofficial_vars": "ДОМНА, ДОМНІКА, ДОМНІЧКА, ДОМА, ДОМКА, ДОМЦЯ"}

@@ -1,0 +1,1 @@
+VLASNI_IMENA_DICT_MACRO_PATTERN = r"^[А-ЯІЇЄҐЁA-Z][А-ЯІЇЄҐЁA-Z\`\'\u0301]{2,}[\s\S]+?\.[ \t]*(?=\n\n|\n*\Z)"
