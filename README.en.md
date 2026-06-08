@@ -1,4 +1,4 @@
-# Ukrainian Names Database
+# Ukrainian Names Database ([База знань українських особових імен](README.md))
 
 A machine-readable knowledge base of Ukrainian personal names with their variants, origin, and transliteration into Latin script.
 
